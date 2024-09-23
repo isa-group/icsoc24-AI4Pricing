@@ -1,0 +1,90 @@
+plan: Free
+description: "Automate basic workflows with 100 tasks per month."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: Professional
+description: "Automate advanced workflows with the full power of Zapier."
+monthly_price: 19.99
+annual_price: 199.88
+unit: tasks/month
+currency: USD
+---
+plan: Team
+description: "Build and manage automated workflows with your team."
+monthly_price: 69
+annual_price: 690
+unit: tasks/month
+currency: USD
+---
+plan: Enterprise
+description: "Scale automation across multiple departments."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Tables - Free"
+description: "Included free in all Zapier plans."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Tables - Pro"
+description: "For individuals who need more control over moving and managing their data."
+monthly_price: 20
+annual_price: 240
+unit: tasks/month
+currency: USD
+---
+plan: "Tables - Advanced"
+description: "For individuals who need more storage for their data."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Interfaces - Free"
+description: "Included free in all Zapier plans."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Interfaces - Pro"
+description: "For individuals who want to build professional apps, forms, and web pages."
+monthly_price: 20
+annual_price: 240
+unit: tasks/month
+currency: USD
+---
+plan: "Interfaces - Advanced"
+description: "For teams that want to collaborate and build for themselves and their customers."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Chatbots - Free"
+description: "For individuals who are just trying out AI chatbots."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD
+---
+plan: "Chatbots - Pro"
+description: "For individuals who want to build AI chatbots trained on their data."
+monthly_price: 20
+annual_price: 240
+unit: tasks/month
+currency: USD
+---
+plan: "Chatbots - Advanced"
+description: "For teams that want to build AI chatbots trained on their data—with few limits."
+monthly_price: null
+annual_price: null
+unit: tasks/month
+currency: USD

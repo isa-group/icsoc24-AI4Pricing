@@ -1,0 +1,41 @@
+plan: Basic
+description: "2 GB to store and share your files"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Plus
+description: null
+monthly_price: 9.99
+annual_price: 99.99
+unit: user/month
+currency: USD
+---
+plan: Essentials
+description: null
+monthly_price: 16.58
+annual_price: 165.88
+unit: user/month
+currency: USD
+---
+plan: Business
+description: null
+monthly_price: 15
+annual_price: 150
+unit: user/month
+currency: USD
+---
+plan: "Business Plus"
+description: null
+monthly_price: 24
+annual_price: 240
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Customize to your business with enterprise-grade security, integrations with best-in-class security solutions, and live support from dedicated experts"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD

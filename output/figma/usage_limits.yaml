@@ -1,0 +1,693 @@
+feature: "Historial de versiones"
+description: "Figma guarda automáticamente y crea versiones de tu archivo cada 30 minutos. Puedes ponerle nombre a una versión en cualquier momento y enlazarla con versiones anteriores."
+plans: 
+- Starter Team: "30 días"
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Editor de Figma"
+description: "Todas las características de diseño que te resultan familiares: lienzos, capas, cuadrículas, vectores, formas, texto, restricciones, etc."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Herramientas avanzadas de dibujo"
+description: "Figma desarrolla funciones específicas para diseñadores web y de software, como Smart Selection (Selección inteligente), Vector Networks (Redes de vectores) y Arc Tool (Herramienta de arcos)."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Disposición automática"
+description: "Crea diseños de interfaz que cambien automáticamente de tamaño según el contenido."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Complementos y widgets"
+description: "Utiliza complementos y widgets creados por la comunidad de Figma para mejorar tu flujo de trabajo."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Almacenamiento ilimitado de archivos"
+description: "Almacenamiento ilimitado en la nube; accede a los archivos desde cualquier parte."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Multiplataforma
+description: "Figma es compatible con dispositivos Mac, PC y Linux."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Importación desde Sketch"
+description: "Crea un nuevo archivo de Figma a partir de tu importación desde Sketch."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Vista de propiedades y variables"
+description: "Puedes ver las propiedades de los componentes de tu sistema de diseño en el panel de inspección."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Codegen básico"
+description: "Genera fragmentos de código CSS, iOS y Android."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Intervenciones múltiples"
+description: "Figma permite que varios editores intervengan en el mismo archivo, editen en tiempo real y colaboren."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Observadores ilimitados"
+description: "Invita a todas aquellas personas que desees para que visualicen, comenten, inspeccionen o exporten tus archivos de Figma gratis."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Enlaces de uso compartido"
+description: "Envía un enlace a un archivo o prototipo de Figma y controla quién accede para visualizarlo o editarlo."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Comentarios en el lienzo"
+description: "Los colaboradores pueden comentar directamente en un prototipo o archivo, para que sepas exactamente a qué están haciendo referencia."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Modo de observación"
+description: "Haz clic en un usuario específico para visualizar su pantalla; esto es estupendo para las pruebas de usuario y los análisis de diseño."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Proyectos privados"
+description: "Crea espacios a los que solo se puede acceder con invitación para que tu equipo trabaje de forma privada."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Permisos de uso compartido de prototipos"
+description: "Comparte prototipos con clientes y participantes sin compartir el archivo de diseño subyacente."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Conversaciones de audio"
+description: "Utiliza el audio para hablar directamente con tus colaboradores en un archivo de Figma o FigJam."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Transferencia de equipo y proyecto"
+description: "Existe la opción de solicitar la transferencia de un equipo o proyecto de una empresa a otra. Solo los planes Organization y Enterprise pueden recibir transferencias."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Equipos ilimitados"
+description: "Crea y gestiona varios equipos dentro de tu organización para que los grupos puedan acceder a los trabajos relevantes y centrarse en ellos."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Ramificación y fusión"
+description: "Trabaja en una rama independiente y fusiona los cambios en el archivo principal cuando todo esté listo."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Espacios de trabajo personalizados"
+description: "Organiza a los usuarios y el contenido en múltiples espacios de trabajo específicos que reflejen el modo en el que está estructurada tu organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Prototipos interactivos"
+description: "Crea prototipos con superposiciones interactivas que simulen el modo en el que un usuario podría interactuar con tu diseño."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Vídeos en prototipos"
+description: "Añade vídeos a prototipos de Figma para lograr experiencias más ricas y realistas."
+plans: 
+- Starter Team: "Selecciona vídeos de la comunidad de Figma"
+- Professional Team: "Carga tus propios vídeos"
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Superposiciones
+description: "Crea fácilmente el prototipo de una interacción donde un elemento aparezca encima de otro."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Transiciones
+description: "Elige entre una amplia variedad de opciones de animaciones de transición."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Animaciones avanzadas"
+description: "Utiliza Smart Animate (Animación inteligente) o crea tus propias animaciones con elementos emergentes, deslizamientos, fundidos, etc."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Visor de prototipos con capacidad de respuesta"
+description: "Visualiza tus diseños en cualquier tamaño de pantalla con un visor de prototipos que adapta los tamaños de forma eficiente."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Establecer variable y modo variable"
+description: "Crea prototipos impulsados por variables y cambia dinámicamente los modos de variables"
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Lógica condicional"
+description: "Utiliza sentencias if/else en las interacciones de prototipos para lograr flujos más personalizados."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Acciones múltiples"
+description: "Define acciones múltiples en una interacción de prototipos."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Expresiones
+description: "Utiliza operadores en tus interacciones para generar valores dinámicos de números o cadenas."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Variables
+description: "Define el color, el número y más elementos para desbloquear temas de diseño y prototipos más dinámicos."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Componentes
+description: "Crea un componente a partir de cualquier conjunto de objetos o capas y utilízalo como diseño reutilizable."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Estilos
+description: "Define el color, el texto y los posibles efectos que se reutilizarán en distintos objetos."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Kits de IU"
+description: "Empieza a diseñar rápidamente con kits de interfaces de usuario integrados y directamente disponibles en Figma"
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Modos de variables"
+description: "Alterna entre diferentes valores de variables para desbloquear temas y más elementos."
+plans: 
+- Starter Team: null
+- Professional Team: "4 modos"
+- Organization: "4 modos"
+- Enterprise: "40 modos"
+add_on: null
+---
+feature: "Bibliotecas de equipo"
+description: "Crea sistemas de diseño con activos compartidos para que los utilice tu equipo."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Fuentes compartidas"
+description: "Accede a las fuentes compartidas de tu organización en Figma; disponibles al instante para todos los editores."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Sistemas de diseño de toda la organización"
+description: "Gestiona y comparte sistemas de diseño entre varios equipos de tu organización."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Library Analytics en la aplicación"
+description: "Da acceso a métricas básicas de sistemas de diseño en la aplicación."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "API de Library Analytics, versión beta"
+description: "Da acceso a los datos de tu biblioteca y concede su propiedad para hacer un seguimiento de la adopción, medir el impacto, etc. Disponible en la versión beta."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Bibliotecas predeterminadas por espacio de trabajo"
+description: "Habilita bibliotecas de manera predeterminada para todos los archivos del espacio de trabajo."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "API REST para variables"
+description: "Utiliza la API para adaptar tus sistemas de diseño."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Bibliotecas aprobadas"
+description: "Designa bibliotecas recomendadas por el administrador a nivel de espacio de trabajo u organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Inspección avanzada"
+description: "Obtén mediciones, especificaciones, disposiciones y código listo para producción, todo ello con un solo clic."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Listo para el desarrollo"
+description: "Marcar y ver los diseños listos para desarrollo"
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Comparar cambios"
+description: "Compara diferentes versiones de un marco para visualizar rápidamente qué ha cambiado."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Anotaciones
+description: "Los usuarios con acceso completo de diseño pueden añadir mediciones y anotaciones que pueden ver los usuarios de Dev Mode."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Exportación de activos"
+description: "Exporta fácilmente activos desde archivos de diseño."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Codegen avanzado"
+description: "Personaliza el código resultante con complementos y unidades dimensionales alternativas."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Recursos de desarrollo"
+description: "Añade enlaces adicionales de desarrollo como referencia durante la implementación."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Extensión de VS Code"
+description: "Ejecuta Dev Mode directamente en VS Code."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Complementos
+description: "Crea y ejecuta complementos para personalizar los flujos de trabajo y el codegen de Dev Mode."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Ver componentes desconectados"
+description: "Visualiza la información de los componentes, incluso cuando están desconectados en el archivo."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Área de pruebas para componentes"
+description: "Visualiza y explora las propiedades de componentes en un área de pruebas interactiva."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Complementos privados"
+description: "Crea tus propios complementos privados para que tu organización los utilice en Dev Mode."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Code Connect"
+description: "Acceder al código de los componentes en Dev Mode"
+plans: 
+- Professional Team: "Disponible para los kits de UI"
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Gestión del proceso de entrega"
+description: "Supervisa y gestiona las actualizaciones de versiones de diseños marcados como listos para desarrollo"
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Sincronización o automatización de flujos de trabajo mediante API REST"
+description: "Aprovecha nuestras API REST para incorporar Figma a tus herramientas y productos externos."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Controles de administrador para el panel de inspección"
+description: "Existen controles de administrador para establecer un lenguaje de código predeterminado y ejecutar complementos automáticamente para tu organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "API REST"
+description: "Aprovecha nuestras API REST para incorporar Figma a tus herramientas y productos externos."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Integraciones de terceros"
+description: "Figma se integra con herramientas como JIRA, Zeplin, Dropbox y Slack para que puedas personalizar tu flujo de trabajo."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Incrustaciones en tiempo real"
+description: "Incrustra diseños y prototipos de Figma en tiempo real siempre que lo necesites."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: Webhooks
+description: "Utiliza nuestros webhooks para automatizar flujos de trabajo entre Figma y tus herramientas o productos externos."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Complementos y widgets privados"
+description: "Crea tus propios complementos y widgets privados para que los utilice tu equipo o tu organización."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Protección de contraseñas"
+description: "Establece una contraseña para archivos y sesiones abiertas, y así podrás compartir el trabajo de forma pública con un mayor control."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Funciones predeterminadas"
+description: "Establece la función con la que los nuevos usuarios se unen a tu instancia para controlar mejor los costes."
+plans: 
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Aprobación de complementos y widgets"
+description: "Gestiona fácilmente las solicitudes de aprobación de complementos y widgets por parte de tu equipo, todo ello desde dentro de Figma."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Administración centralizada"
+description: "Reúne a varios equipos en una cuenta central de Figma; gestiona a los usuarios y la facturación en un único lugar."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Captura de dominio"
+description: "Opción que te permite añadir automáticamente a cualquier persona con una dirección de email verificada a tu cuenta de Figma. Habla con el departamento de ventas para obtener más información."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Controles de acceso mediante enlace"
+description: "Limita la capacidad de compartir archivos mediante un enlace fuera de tu organización, garantizando así que nadie pueda visualizar los archivos a menos que se le haya invitado explícitamente."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Inicio de sesión único (SSO)"
+description: "Configura el inicio de sesión único basado en SAML con tu sistema existente de gestión de identidades; aplica el SSO a todos los miembros del equipo y gestiona el aprovisionamiento mediante SCIM."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Registros de actividad"
+description: "Visualiza un registro de las acciones que los miembros han realizado en Figma que ayude a que los administradores mantengan la seguridad de su organización."
+plans: 
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Administración de espacios de trabajo"
+description: "Gestiona a los usuarios y el contenido de cada espacio de trabajo de tu organización para adaptar la administración y crear una experiencia más personalizada para los usuarios."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Controles de acceso de invitados"
+description: "Limita la capacidad de los colaboradores externos para unirse a tu organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Equipos predeterminados"
+description: "Añade automáticamente a todos los nuevos miembros de espacios de trabajo a equipos específicos para ayudarles a incorporarse y acceder a los trabajos relevantes."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Asignación de funciones a través de SCIM"
+description: "Asigna automáticamente una función de Figma a los usuarios mediante tu proveedor de gestión de identidades."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Protección obligatoria de contraseñas"
+description: "Exige que los usuarios establezcan una contraseña para los archivos que se compartan fuera de la organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Controles de creación de equipos"
+description: "Limita la capacidad de crear equipos únicamente a los administradores o a todos los miembros."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Controles de contenido externo"
+description: "Elige si los miembros pueden acceder al contenido desde fuera de tu organización."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "API de registros de actividad"
+description: "Haz un seguimiento de lo que sucede en Figma de manera programática mediante la API y crea aplicaciones personalizadas."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Windows Installer"
+description: "Implementa Figma de forma segura en toda tu empresa a escala y controla las actualizaciones de software."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Límite de tiempo de sesión inactiva"
+description: "Personaliza un límite de tiempo de sesión inactiva para que Figma cierre automáticamente la sesión de los miembros."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Alojamiento de datos en la UE"
+description: "Aloja las partes clave de Figma y los archivos de FigJam en la UE."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Enlaces públicos temporales"
+description: "Exige que los usuarios establezcan una fecha de caducidad en el enlace público de un archivo."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Análisis de complementos y widgets"
+description: "Visualiza el análisis de uso de complementos y widgets para hacer un seguimiento de la adopción y gestionar las aplicaciones de manera más eficaz."
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Foro de asistencia de Figma"
+description: "Haz preguntas, comparte comentarios y conecta con la comunidad de Figma."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Centro de ayuda de Figma"
+description: "Encuentra rápidamente respuestas a preguntas frecuentes; solo tienes que examinar nuestro conjunto de artículos y vídeos de gran utilidad."
+plans: 
+- Starter Team
+- Professional Team
+- Organization
+- Enterprise
+add_on: null
+---
+feature: "Planificación y asistencia para incorporación"
+description: "Colabora estrechamente con el equipo de Figma para planificar y llevar a cabo una implementación óptima de Figma (habla con el equipo de Ventas sobre si cumples los requisitos)"
+plans: 
+- Enterprise
+add_on: null

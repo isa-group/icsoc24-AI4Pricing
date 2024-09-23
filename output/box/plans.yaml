@@ -1,0 +1,48 @@
+plan: Individual
+description: "Almacenamiento seguro de archivos, capacidad de compartir y firmas electrónicas nativas para uso personal"
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: USD
+---
+plan: "Personal Pro"
+description: "Mejora tu plan personal para obtener más flexibilidad, almacenamiento y firmas electrónicas"
+monthly_price: 14
+annual_price: 10
+unit: user/month
+currency: USD
+---
+plan: "Business Starter"
+description: "Colaboración segura de archivos, almacenamiento y firmas electrónicas nativas para hasta diez usuarios"
+monthly_price: 7
+annual_price: 5
+unit: user/month
+currency: USD
+---
+plan: Business
+description: "Colaboración en equipo para cualquier empresa"
+monthly_price: 20
+annual_price: 15
+unit: user/month
+currency: USD
+---
+plan: "Business Plus"
+description: "Gestión de contenido para toda la empresa"
+monthly_price: 33
+annual_price: 25
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "﻿Gestión avanzada de contenido y protección de datos"
+monthly_price: 47
+annual_price: 35
+unit: user/month
+currency: USD
+---
+plan: "Enterprise Plus"
+description: "El poder de la IA y la nube de contenido en un solo plan"
+monthly_price: null
+annual_price: 50
+unit: user/month
+currency: USD

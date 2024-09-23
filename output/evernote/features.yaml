@@ -1,0 +1,213 @@
+feature: Notes
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: Notebooks
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Max. note size"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Monthly uploads"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Sync across devices"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Apps for iOS, Android, Web, Windows, and Mac"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: Tasks
+description: "Add dates, set reminders, assign tasks to others"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Evernote Calendar"
+description: "Access and create events"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "External calendars"
+description: "Connect your Google or Microsoft Office calendars"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: Attachments
+description: "Upload documents, images, and audio recordings directly to your notes"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Advanced search"
+description: "Find anything in your account with Boolean, geographic, and filtered searches"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Advanced organization"
+description: "Add tags and reminders to notes"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Offline notes"
+description: "Access your notes from anywhere"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Easy sharing"
+description: "Email content into Evernote, email notes to collaborators, export notes and notebooks as PDFs"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "AI-Powered Search"
+description: "Use natural language to search your notes"
+plans: 
+- Personal
+- Professional
+- Teams
+---
+feature: "AI Edit"
+description: "Use AI to write, summarize, tidy, and translate your notes"
+plans: 
+- Personal
+- Professional
+- Teams
+---
+feature: "Google (Gmail, Drive, Calendar)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Microsoft Outlook (Email, Calendar)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: Slack
+description: null
+plans: 
+- Personal
+- Professional
+- Teams
+---
+feature: "Two-factor authentication"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "In-note encryption (Mac & Windows)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Help & Learning center"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "Community forum"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: "File a support ticket"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+---
+feature: Spaces
+description: "Add an extra layer of organization with Spaces"
+plans: 
+- Teams
+---
+feature: "Maintain business data ownership"
+description: "Control all the information in your account"
+plans: 
+- Teams
+---
+feature: "Centralized account administration & user management"
+description: "Access information on billing, users, and permissions"
+plans: 
+- Teams
+---
+feature: "User activity history with detailed logs"
+description: "Get complete oversight of your team's usage history"
+plans: 
+- Teams
+---
+feature: "Single Sign-On (SSO)"
+description: "Use existing credentials for a faster log in experience"
+plans: 
+- Teams

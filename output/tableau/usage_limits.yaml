@@ -1,0 +1,361 @@
+feature: "Manage users and permissions"
+description: "Manage site roles, content ownership, and user permissions."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Curate and share data sources"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Manage content and certify data sources"
+description: "Manage projects, workbooks, and data sources certification."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Author from curated data"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Server administration"
+description: "Only available on Tableau Server"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "View lineage and impact"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Set data quality warnings"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Advanced Deployment Monitoring"
+description: "Available with Advanced Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Programmatic Content Migration"
+description: "Available with Advanced Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Get AI-powered assistance with Einstein Copilot for Tableau in Catalog"
+description: "Only available with Tableau+"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Interact with visualizations and dashboards"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Create custom views"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Share custom views"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Download visualizations as images (.pdf, .png)"
+description: "Download a snapshot of a visualization or dashboard as either a .pdf or .png file."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Download summary data"
+description: "Download only the aggregate data used by the visualization or dashboard."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Download full data"
+description: "Download the full data set associated with the visualization or dashboard."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "See data quality warnings"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Comment on a dashboard or visualization"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Create a subscription for yourself"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Receive data-driven alerts"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Create subscriptions for others"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Create data-driven alerts"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Edit existing workbooks and visualizations"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Create and publish new workbook from existing published data source"
+description: "Create content starting with an existing data source published to Tableau Server or Tableau Cloud."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Create and publish new workbook with a new data source"
+description: "Create and share content by connecting to a new data source, including raw data. You're not restricted to existing, published data sources."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Create and publish new data sources"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Create new workbooks based on pre-built Dashboard Starters"
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Create new data flows (.tfl)"
+description: "Combine, shape and clean data, and save the process as a data flow."
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Edit and modify a data flow (.tfl)"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Export data (.tde, .hyper or .csv)"
+description: null
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Publish and run flows"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Schedule flows"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+add_on: null
+---
+feature: "Monitor flow performance and health"
+description: "Available with Tableau Data Management"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Get AI-powered assistance from Einstein Copilot for Tableau in Prep"
+description: "Only available with Tableau+"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+add_on: null
+---
+feature: "Insights Summaries"
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Pulse Q&A"
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Email & Slack Digests"
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Metrics Layer"
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: Mobile
+description: "Only available on Tableau Cloud"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null
+---
+feature: "Premium Capabilities"
+description: "Only available with Tableau+"
+plans: 
+- Tableau Creator
+- Enterprise Creator
+- Tableau Explorer
+- Enterprise Explorer
+- Tableau Viewer
+- Enterprise Viewer
+add_on: null

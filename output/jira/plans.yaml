@@ -1,0 +1,27 @@
+plan: Free
+description: "Free forever for 10 users"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Standard
+description: "Everything you need to get started"
+monthly_price: 7.16
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Premium
+description: "Align multiple teams"
+monthly_price: 12.48
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Advanced analytics, scale and security for enterprises"
+monthly_price: null
+annual_price: 44000
+unit: user/year
+currency: USD

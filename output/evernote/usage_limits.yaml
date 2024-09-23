@@ -1,0 +1,246 @@
+feature: Notes
+description: null
+plans: 
+- Free: "50 notes"
+- Personal: "150000 notes"
+- Professional: "150000 notes"
+- Teams: "500000 notes"
+add_on: null
+---
+feature: Notebooks
+description: null
+plans: 
+- Free: "1 notebook"
+- Personal: "2000 notebooks"
+- Professional: "2000 notebooks"
+- Teams: "10000 notebooks"
+add_on: null
+---
+feature: "Max. note size"
+description: null
+plans: 
+- Free: "25 MB"
+- Personal: "200 MB"
+- Professional: "200 MB"
+- Teams: "200 MB"
+add_on: null
+---
+feature: "Monthly uploads"
+description: null
+plans: 
+- Free: "60 MB"
+- Personal: "10 GB"
+- Professional: "20 GB"
+- Teams: "20 GB"
+add_on: 
+- Free: "10 €/GB"
+- Personal: "10 €/GB"
+- Professional: "10 €/GB"
+- Teams: "10 €/GB"
+---
+feature: "Sync across devices"
+description: null
+plans: 
+- Free: "1 device"
+- Personal: "10000000000 devices"
+- Professional: "10000000000 devices"
+- Teams: "10000000000 devices"
+add_on: null
+---
+feature: "Apps for iOS, Android, Web, Windows, and Mac"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: Tasks
+description: "Add dates, set reminders, assign tasks to others"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Evernote Calendar"
+description: "Access and create events"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "External calendars"
+description: "Connect your Google or Microsoft Office calendars"
+plans: 
+- Free: "1 calendar"
+- Personal: "1 calendar"
+- Professional: "5 calendars"
+- Teams: "5 calendars"
+add_on: null
+---
+feature: Attachments
+description: "Upload documents, images, and audio recordings directly to your notes"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Advanced search"
+description: "Find anything in your account with Boolean, geographic, and filtered searches"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Advanced organization"
+description: "Add tags and reminders to notes"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Offline notes"
+description: "Access your notes from anywhere"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Easy sharing"
+description: "Email content into Evernote, email notes to collaborators, export notes and notebooks as PDFs"
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "AI-Powered Search"
+description: "Use natural language to search your notes"
+plans: 
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "AI Edit"
+description: "Use AI to write, summarize, tidy, and translate your notes"
+plans: 
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Google (Gmail, Drive, Calendar)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Microsoft Outlook (Email, Calendar)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: Slack
+description: null
+plans: 
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Two-factor authentication"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "In-note encryption (Mac & Windows)"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Help & Learning center"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "Community forum"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: "File a support ticket"
+description: null
+plans: 
+- Free
+- Personal
+- Professional
+- Teams
+add_on: null
+---
+feature: Spaces
+description: "Add an extra layer of organization with Spaces"
+plans: 
+- Teams
+add_on: null
+---
+feature: "Maintain business data ownership"
+description: "Control all the information in your account"
+plans: 
+- Teams
+add_on: null
+---
+feature: "Centralized account administration & user management"
+description: "Access information on billing, users, and permissions"
+plans: 
+- Teams
+add_on: null
+---
+feature: "User activity history with detailed logs"
+description: "Get complete oversight of your team's usage history"
+plans: 
+- Teams
+add_on: null
+---
+feature: "Single Sign-On (SSO)"
+description: "Use existing credentials for a faster log in experience"
+plans: 
+- Teams
+add_on: null

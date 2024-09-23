@@ -1,0 +1,352 @@
+feature: "Use a custom business email (name@yourbusiness.com)"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Host and administer email with a 50-GB mailbox"
+description: null
+plans: 
+- Microsoft 365 Business Basic: "50 GB"
+- Microsoft 365 Business Standard: "50 GB"
+- Microsoft 365 Business Premium: "50 GB"
+add_on: null
+---
+feature: "Easily schedule meetings and respond to invitations using shared calendars"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Manage your calendar, share available meeting times, schedule meetings, and get reminders"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Collaborate in the same file with real-time coauthoring and editing"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Access your files from your computer, tablet, or phone"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Keep your files securely stored, up to date, and accessible across devices"
+description: null
+plans: 
+- Microsoft 365 Business Basic: "1 TB"
+- Microsoft 365 Business Standard: "1 TB"
+- Microsoft 365 Business Premium: "1 TB"
+- Microsoft 365 Apps for business: "1 TB"
+add_on: 
+- Microsoft 365 Business Basic: "10 €/GB"
+- Microsoft 365 Business Standard: "10 €/GB"
+- Microsoft 365 Business Premium: "10 €/GB"
+- Microsoft 365 Apps for business: "10 €/GB"
+---
+feature: "Engage and inform with intelligent video using Stream"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Chat one-on-one or in a group chat, pin chats, and save messages for quick access"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Host secure, organized meetings with audio, video, screen-sharing, recording, and the option to enter a 3D immersive space"
+description: null
+plans: 
+- Microsoft 365 Business Basic: "100 participants"
+- Microsoft 365 Business Standard: "300 participants"
+- Microsoft 365 Business Premium: "300 participants"
+add_on: 
+- Microsoft 365 Business Basic: "10 €/participant"
+- Microsoft 365 Business Standard: "10 €/participant"
+- Microsoft 365 Business Premium: "10 €/participant"
+---
+feature: "Create team sites to share information, content, and files throughout your intranet using SharePoint"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Invite people outside of your business to your meetings—even those without Teams accounts"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Help protect your business against spam and malware with cloud-based email filtering"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Manage security threats by creating password policies"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Secure access with multifactor authentication"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Control access to business information with security groups and custom permissions"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: null
+---
+feature: "Contact phone and online support anytime"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Get technical support for installation, setup, configuration, and general usage"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Access help and troubleshooting tools, videos, articles, and forums"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Have peace of mind with a financially backed 99% uptime guarantee"
+description: null
+plans: 
+- Microsoft 365 Business Basic
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+- Microsoft 365 Apps for business
+add_on: null
+---
+feature: "Word, Excel, PowerPoint, OneNote"
+description: null
+plans: 
+- Microsoft 365 Business Basic: "10000000000 users"
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+- Microsoft 365 Apps for business: "10000000000 users"
+add_on: null
+---
+feature: Outlook
+description: null
+plans: 
+- Microsoft 365 Business Basic: "10000000000 users"
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+- Microsoft 365 Apps for business: "10000000000 users"
+add_on: null
+---
+feature: "Teams, Bookings, Forms, Lists, Planner, SharePoint, Stream"
+description: null
+plans: 
+- Microsoft 365 Business Basic: "10000000000 users"
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, OneNote"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+- Microsoft 365 Apps for business: "10000000000 users"
+add_on: null
+---
+feature: "PC-only apps, including Access and Publisher"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Get intelligent writing assistance with advanced grammar and style suggestions using Editor"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+- Microsoft 365 Apps for business: "10000000000 users"
+add_on: null
+---
+feature: "Boost creativity with Copilot for Microsoft 365 in Word, Excel, PowerPoint, Outlook, Teams, and other apps"
+description: "Available as an add-on"
+plans: 
+- Microsoft 365 Business Standard
+- Microsoft 365 Business Premium
+add_on: 
+- Microsoft 365 Business Standard: "10 €/user"
+- Microsoft 365 Business Premium: "10 €/user"
+---
+feature: "Easily create, manage, and share schedules and tasks with your team"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Manage workflow and track important tasks with Microsoft Lists"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Quickly and easily create custom surveys and analyze results with Microsoft Forms"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Streamline client scheduling and manage appointments with Microsoft Bookings"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Edit videos using basic tools, such as trimming, cropping, and speed control"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Create high-quality recordings and set dimensions for upload to multiple platforms"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Collaborate live or asynchronously in a video-editing workspace"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 users"
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Schedule and host webinars for up to 300 people"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "300 participants"
+- Microsoft 365 Business Premium: "300 participants"
+add_on: 
+- Microsoft 365 Business Standard: "10 €/participant"
+- Microsoft 365 Business Premium: "10 €/participant"
+---
+feature: "Host webinars that include attendee registration pages and email confirmations"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 participants"
+- Microsoft 365 Business Premium: "10000000000 participants"
+add_on: null
+---
+feature: "Get reporting data on webinar registration and meeting attendance"
+description: null
+plans: 
+- Microsoft 365 Business Standard: "10000000000 participants"
+- Microsoft 365 Business Premium: "10000000000 participants"
+add_on: null
+---
+feature: "Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Help protect against email threats, such as phishing that’s hidden in email attachments and links"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Restrict access to sensitive business information with Information Rights Management"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Apply security policies to help protect work data on company-owned and employee devices"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Keep company data within approved apps across iOS, Android, and Windows PCs"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null
+---
+feature: "Remotely remove business data from lost or stolen devices"
+description: null
+plans: 
+- Microsoft 365 Business Premium: "10000000000 users"
+add_on: null

@@ -1,0 +1,76 @@
+plan: Solo
+description: "Essentials to get more reviews and feedback"
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: EUR
+---
+plan: Starter
+description: "More responses and email requests"
+monthly_price: 29
+annual_price: 288
+unit: user/month
+currency: EUR
+---
+plan: Business
+description: "The best Collect plan for growing companies"
+monthly_price: 79
+annual_price: 780
+unit: user/month
+currency: EUR
+---
+plan: Scale
+description: "All the features with customizable limits"
+monthly_price: 159
+annual_price: 1584
+unit: user/month
+currency: EUR
+---
+plan: Solo
+description: "Essentials to make reviews matter"
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: EUR
+---
+plan: Starter
+description: "For smaller teams, more views and platforms"
+monthly_price: 19
+annual_price: 192
+unit: user/month
+currency: EUR
+---
+plan: Business
+description: "The best Display plan for growing companies"
+monthly_price: 59
+annual_price: 588
+unit: user/month
+currency: EUR
+---
+plan: Scale
+description: "For experts, loads of widget views, all the features"
+monthly_price: 129
+annual_price: 1284
+unit: user/month
+currency: EUR
+---
+plan: "Full Suite Starter"
+description: "Features for light usage"
+monthly_price: 166
+annual_price: 1992
+unit: user/month
+currency: EUR
+---
+plan: "Full Suite Business"
+description: "All the features for higher usage"
+monthly_price: 249
+annual_price: 2988
+unit: user/month
+currency: EUR
+---
+plan: "Full Suite Scale"
+description: "All the features for higher usage"
+monthly_price: 333
+annual_price: 3996
+unit: user/month
+currency: EUR

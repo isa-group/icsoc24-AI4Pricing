@@ -1,0 +1,76 @@
+plan: Free
+description: null
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Basic
+description: Administration
+monthly_price: 3.99
+annual_price: 3.99
+unit: user/month
+currency: USD
+---
+plan: Standard
+description: "Timesheeting & Billing"
+monthly_price: 5.49
+annual_price: 5.49
+unit: user/month
+currency: USD
+---
+plan: Pro
+description: "Profit & Productivity"
+monthly_price: 7.99
+annual_price: 7.99
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Control & Security"
+monthly_price: 11.99
+annual_price: 11.99
+unit: user/month
+currency: USD
+---
+plan: "CAKE.com Bundle"
+description: "Productivity Suite"
+monthly_price: 12.99
+annual_price: 12.99
+unit: user/month
+currency: USD
+---
+plan: "Basic (Kiosk)"
+description: null
+monthly_price: 0.99
+annual_price: 0.79
+unit: user/month
+currency: USD
+---
+plan: "Standard (Kiosk)"
+description: null
+monthly_price: 1.49
+annual_price: 1.19
+unit: user/month
+currency: USD
+---
+plan: "Pro (Kiosk)"
+description: null
+monthly_price: 1.99
+annual_price: 1.59
+unit: user/month
+currency: USD
+---
+plan: "Enterprise (Kiosk)"
+description: null
+monthly_price: 2.99
+annual_price: 2.39
+unit: user/month
+currency: USD
+---
+plan: "CAKE.com Bundle (Kiosk)"
+description: null
+monthly_price: 2.99
+annual_price: 2.39
+unit: user/month
+currency: USD

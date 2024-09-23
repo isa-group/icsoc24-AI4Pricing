@@ -1,0 +1,48 @@
+plan: Free
+description: null
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: USD
+---
+plan: Standard
+description: "MOST POPULAR"
+monthly_price: 21
+annual_price: 16.58
+unit: user/month
+currency: USD
+---
+plan: Professional
+description: null
+monthly_price: 42
+annual_price: 33.25
+unit: user/month
+currency: USD
+---
+plan: "Group Standard"
+description: "MOST POPULAR"
+monthly_price: null
+annual_price: 139
+unit: user/year
+currency: USD
+---
+plan: "Group Professional"
+description: null
+monthly_price: null
+annual_price: 279
+unit: user/year
+currency: USD
+---
+plan: Organization
+description: "Best choice for companies, universities and non-profits"
+monthly_price: null
+annual_price: null
+unit: user/year
+currency: USD
+---
+plan: Student
+description: "SAVING 20% BY PAYING ANNUALLY"
+monthly_price: 9
+annual_price: 7.42
+unit: user/month
+currency: USD

@@ -1,0 +1,604 @@
+feature: HTTP
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: GraphQL
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: gRPC
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Websocket
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Socket.io
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: MQTT
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Calls to Postman API (monthly)"
+description: null
+plans: 
+- Free: 10,000
+- Basic: 100,000
+- Professional: 100,000
+- Enterprise: 1,000,000
+---
+feature: "Commenting & Annotations"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Collection Recovery"
+description: null
+plans: 
+- Free: "30 days"
+- Basic: "30 days"
+- Professional: "90 days"
+- Enterprise: "90 days"
+---
+feature: "Public API documentation"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Private API documentation"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Cloud-based Slack Integrations"
+description: null
+plans: 
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Cloud-based Teams Integrations"
+description: null
+plans: 
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Team workspaces"
+description: "Collaborative spaces for API development + consumption (org-wide visibility)"
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Personal workspaces"
+description: "Collaborative spaces for API development + consumption (individual visibility)"
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Public Workspaces"
+description: "Collaborative spaces for API development + consumption (global visibility)"
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Private workspaces"
+description: "Collaborative spaces for API development + consumption (internal team visibility by invitation only)"
+plans: 
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Single Partner Workspaces"
+description: "Collaborative spaces for API development + consumption (one-to-one external partner/customer visibility by invitation only)"
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Multi-Partner Workspaces"
+description: "Collaborative spaces for API development + consumption (One-to-many external partner/customer visibility by invitation only)"
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Workspace updates"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Workspace themes"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Public API Network"
+description: "Explore the largest network of APIs, public workspaces, collections, and Flows by developers."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Private API Network"
+description: "Central directory of workspaces, collections, and APIs your team uses internally."
+plans: 
+- Enterprise
+---
+feature: "Package Library"
+description: "Team-managed repository to store, share, and reuse test scripts."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Packages
+description: "Number of packages that can be stored in the Package Library."
+plans: 
+- Free: 3
+- Basic: 3
+- Professional: 25
+- Enterprise: 100
+---
+feature: "Mock Servers"
+description: "Usage metered on per team, per month basis."
+plans: 
+- Free: "1,000 requests"
+- Basic: "10,000 requests"
+- Professional: "10,000 requests"
+- Enterprise: "100,000 requests"
+---
+feature: "Additional Mocks"
+description: null
+plans: 
+- Basic: "$0.75 / 1000 calls"
+- Professional: "$0.75 / 1000 calls"
+- Enterprise: "$0.75 / 1000 calls"
+---
+feature: Monitoring
+description: "Usage metered on per team, per month basis."
+plans: 
+- Free: "1,000 requests"
+- Basic: "10,000 requests"
+- Professional: "10,000 requests"
+- Enterprise: "10,000 requests"
+---
+feature: "Additional Monitoring"
+description: "Limits apply to monitoring calls by plan. Must be on Postman Basic plan or higher to purchase additional monitoring calls as an add-on."
+plans: 
+- Basic: "$0.75 / 1000 calls"
+- Professional: "$0.75 / 1000 calls"
+- Enterprise: "$0.75 / 1000 calls"
+---
+feature: "Collection Runs"
+description: "Usage metered on a per month, per user basis. Must be on Basic plan or higher to purchase unlimited collection runs as an add-on."
+plans: 
+- Free: 25
+- Basic: 25
+- Professional: 25
+- Enterprise: 25
+---
+feature: "Test Data Storage"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+---
+feature: "Postman CLI"
+description: "A secure command-line companion for Postman. The Postman CLI is signed and secured by Postman."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Newman CLI"
+description: "A command-line Collection Runner for Postman. Newman's repository is public and Newman isn't signed or secured by Postman."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Local Performance Testing"
+description: null
+plans: 
+- Free: "100 virtual users"
+  25 test runs
+- Basic: "100 virtual users"
+  25 test runs
+- Professional: "500 virtual users"
+  250 test runs
+---
+feature: "Desktop and Web Apps"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "IDE Extension (VS Code)"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Postman API Support"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Audit logs"
+description: null
+plans: 
+- Enterprise
+---
+feature: "Deployment control"
+description: null
+plans: 
+- Enterprise
+---
+feature: "User Level Reporting & Analytics"
+description: "Postman Reporting gives you visibility at both the API and team levels, providing you with key insights into what's happening across operations."
+plans: 
+- Enterprise
+---
+feature: "Postman Vault"
+description: "Store sensitive data in your local instance of Postman for secure reuse in collections, environments, and requests."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Custom domains"
+description: "You can create custom domains for your API documentation. Each custom domain can be a full domain or a subdomain (e.g., example.com or api.example.com)."
+  Additional custom domains available as add-ons for Basic plans or higher.
+plans: 
+- Free: 1
+- Basic: 50
+- Professional: 50
+- Enterprise: 50
+---
+feature: "Public Elements"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "GitHub and GitLab Public Repositories"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Custom Alerts"
+description: null
+plans: 
+- Enterprise
+---
+feature: "Secret Scanner Dashboard (Public)"
+description: null
+plans: 
+- Enterprise
+---
+feature: "Single sign-on"
+description: "Single sign-on support includes Google Workspace, Microsoft AD FS, Microsoft Entra ID, Custom SAML, Duo, Okta, OneLogin, and Ping Identity."
+plans: 
+- Enterprise
+---
+feature: "User provisioning (SCIM)"
+description: "Automated user provisioning supports SCIM API, Okta, Microsoft Entra ID and OneLogin."
+plans: 
+- Enterprise
+---
+feature: SAML
+description: "Configure SSO with custom SAML."
+plans: 
+- Enterprise
+---
+feature: "User groups"
+description: "With Postman user groups, you can organize your team members into functional groups that mimic your organizational structure."
+plans: 
+- Enterprise
+---
+feature: "Super Admin Role"
+description: "Manages everything within a team, including team settings, members, roles, and resources."
+plans: 
+- Enterprise
+---
+feature: Admin
+description: "Manages team members and team settings. Can also view monitor metadata and run, pause, and resume monitors."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Billing
+description: "Manages team plan and payments. Billing roles can be granted by a Super Admin, Team Admin, or by a fellow team member with a Billing role."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Developer
+description: "Has access to all team resources and workspaces."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Collection Viewers"
+description: "Invite users to view specific collections in your team."
+plans: 
+- Free: 5
+- Basic: 10
+- Professional: 25
+- Enterprise: "1:1"
+---
+feature: "Community Manager"
+description: "Manages the public visibility of workspaces and team profile."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Partner (External)"
+description: "All partners are automatically granted the Partner role at the team level. Partners can only access the Partner Workspaces they've been invited to."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Partner Manager"
+description: "Manages all Partner Workspaces within an organization. Controls Partner Workspace settings and visibility, and can send invites to partners."
+plans: 
+- Enterprise
+---
+feature: "API Governance Manager"
+description: "Manages API governance within a team, including governance rules, functions, and workspace groups."
+plans: 
+- Enterprise
+---
+feature: "API Network Manager"
+description: "Manages a team's Private API Network."
+plans: 
+- Enterprise
+---
+feature: "Workspace Admin"
+description: "Can manage workspace resources and settings."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Workspace Editor"
+description: "Can create and edit workspace resources."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Workspace Viewer"
+description: "Can view, fork, and export workspace resources."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Partner Viewer"
+description: "Can view, fork, and export partner workspace resources."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Partner Editor"
+description: "Can create and share collections, edit resources, import and export, and fork elements."
+plans: 
+- Professional: "Starting at $29/seat/month"
+- Enterprise: $49/seat/month
+---
+feature: "Collection Viewer"
+description: "Can view, fork, and export collections. Role is also mapped to workspace and team, but the access is granted at the collection level."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Collection Editor"
+description: "Can edit collections directly. Role is also mapped to workspace and team, but the access is granted at the collection level."
+plans: 
+- Basic
+- Professional
+- Enterprise
+---
+feature: "API Admin"
+description: "Can publish, move, and delete APIs."
+plans: 
+- Enterprise
+---
+feature: "API Editor"
+description: "Can edit APIs and API definitions."
+plans: 
+- Enterprise
+---
+feature: "API Viewer"
+description: "Can view published API versions."
+plans: 
+- Enterprise
+---
+feature: "Environment Editor"
+description: "Can edit and manage environments."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Environment Viewer"
+description: "Can view and use environments."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Mock Server Editor"
+description: "Can edit and manage mock servers."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Mock Server Viewer"
+description: "Can view mock servers and associated metadata."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "Monitor Editor"
+description: "Can view monitor metadata, metrics, jobs, and runs. Can run, update, delete, pause, and resume the monitor."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Monitor Viewer"
+description: "Can view monitor metadata, metrics, jobs, and runs."
+plans: 
+- Professional
+- Enterprise
+---
+feature: "API Network Folder Manager"
+description: "Manages specific folders and the elements in them in a team's Private API Network. Team members with this role can perform all actions that API Network Manager role can perform but only in folders they have permission to manage."
+plans: 
+- Enterprise
+---
+feature: Community
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: Email
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Priority Email"
+description: null
+plans: 
+- Enterprise
+---
+feature: "Customer Success Manager"
+description: null
+plans: 
+- Enterprise
+---
+feature: "Training content"
+description: "Access to Postman Academy (for on-demand self study learning modules), Postman Intergalactic (for educational trainings taught by Postman team members), and periodic webinars covering Postman platform updates."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Postman Proxy"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Postman Interceptor"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Postman Public Docs"
+description: null
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+---
+feature: "Payment Method"
+description: null
+plans: 
+- Free: "Credit card only"
+- Basic: "Credit card only"
+- Professional: "Credit card only"
+- Enterprise: "PO and invoicing"
+---
+feature: "Terms of service"
+description: "Master Service Agreement (MSA) & Security review."
+plans: 
+- Enterprise

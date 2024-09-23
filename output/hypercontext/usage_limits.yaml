@@ -1,0 +1,388 @@
+feature: "Agenda Sharing & Co-editing"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Guest Users"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Next Steps"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Embedded Media"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "File Attachments and link integrations"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Large group discussions"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "1:1 Meetings"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Team Meetings"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Collaborative Agenda"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Custom Personal Meeting Templates"
+description: null
+plans: 
+- Free
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Shareable Notes"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Private Notes"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Exportable Notes"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Searchable Notes"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Comments on Agenda Items"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Embedded Media in Meetings"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Board View for Meeting Items"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "AI Manager Copilot"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Reporting on Meeting Metrics"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Custom Org-wide Meeting Templates"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Goal Templates"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Individual, Team, and Company Goals"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Goal Relationships"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Meeting Integration"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Report & Analytics on Goals"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Sharable Live Reports"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Goal Progress Notifications"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Performance Review Integration"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "360 Performance Reviews"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Custom Question Templates"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Competency-based Review Questions"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "AI Writing Co-Pilot"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "AI Consolidated Review"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Employee Praise & Recognition Integration"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Review Cycle Automation"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Dynamic Review Assignments"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "9-Box and Calibration Reporting"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "AI Insights on Performance Trends"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Export to Excel for Reporting"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Cross-cycle Analytics"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Basic Collaboration Tools"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Media & Design Tools"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Personal Productivity Tools"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Project & Product Management Tools"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Directory Sync"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "HRIS Integration"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Custom API Access"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "In App Support"
+description: null
+plans: 
+- Pro
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Priority Support"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "SSO (Single Sign-On)"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Advanced Security Features"
+description: null
+plans: 
+- Business
+- Enterprise
+add_on: null
+---
+feature: "Dedicated Account Manager"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Customizable Data Retention Policies"
+description: null
+plans: 
+- Enterprise
+add_on: null
+---
+feature: "Audit Logs & Compliance Reports"
+description: null
+plans: 
+- Enterprise
+add_on: null

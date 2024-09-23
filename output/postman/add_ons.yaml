@@ -1,0 +1,75 @@
+add_on: Postbot
+description: "Supercharge your API development with Postbot, our AI-powered assistant, using natural language input and contextual suggestions."
+plans: 
+- Free
+- Basic
+- Professional
+- Enterprise
+price: 9
+unit: user/month
+---
+add_on: "Collection Runner"
+description: "Get unlimited monthly Collection Runs to test your APIs. Schedule runs, log tests results and reuse scripts."
+plans: 
+- Basic
+- Professional
+- Enterprise
+price: 49
+unit: user/month
+---
+add_on: "Partner Editor"
+description: "Enable external collaborators to not only view but also edit elements in Partner Workspaces."
+plans: 
+- Professional
+- Enterprise
+price: 29
+unit: user/month
+---
+add_on: "Advanced Security Administration"
+description: "Enable enterprise-grade security for your team, and maintain org-wide security and compliance."
+plans: 
+- Enterprise
+price: 29
+unit: user/month
+---
+add_on: "API Builder"
+description: "Standardize your API designs and get complete API lifecycle management capabilities."
+plans: 
+- Enterprise
+price: 49
+unit: user/month
+---
+add_on: Flows
+description: "Transform the way you build API-based applications with a low-code, drag-and-drop interface."
+plans: 
+- Basic
+- Professional
+price: 12
+unit: user/month
+---
+add_on: "Mock Calls"
+description: "Simulate the behavior of real APIs by accepting requests and returning responses. Now available for bulk purchase."
+plans: 
+- Basic
+- Professional
+- Enterprise
+price: 20
+unit: "50,000 requests/month"
+---
+add_on: "Monitor Calls"
+description: "Automatically run test scripts and perform other tests at regular intervals."
+plans: 
+- Basic
+- Professional
+- Enterprise
+price: 20
+unit: "50,000 requests/month"
+---
+add_on: "Custom Domains"
+description: "Provide a more tailored experience for your API consumers."
+plans: 
+- Basic
+- Professional
+- Enterprise
+price: 10
+unit: domain

@@ -1,0 +1,48 @@
+plan: Free
+description: "The basics for individuals and organizations"
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: USD
+---
+plan: Team
+description: "Advanced collaboration for individuals and organizations"
+monthly_price: 4
+annual_price: 4
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Security, compliance, and flexible deployment"
+monthly_price: 21
+annual_price: 19.25
+unit: user/month
+currency: USD
+---
+plan: "GitHub Copilot"
+description: null
+monthly_price: 10
+annual_price: 100
+unit: user/month
+currency: USD
+---
+plan: "GitHub Copilot Business"
+description: null
+monthly_price: 19
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Large File Storage"
+description: null
+monthly_price: 5
+annual_price: null
+unit: GB/month
+currency: USD
+---
+plan: "GitHub Advanced Security"
+description: null
+monthly_price: 49
+annual_price: null
+unit: committer/month
+currency: USD

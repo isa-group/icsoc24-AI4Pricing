@@ -1,0 +1,20 @@
+plan: Lite
+description: "For creators and small businesses looking to grow their audience"
+monthly_price: 49
+annual_price: 34.3
+unit: USD/month
+currency: USD
+---
+plan: Pro
+description: "For professional creators and businesses to consistently host live video events"
+monthly_price: 89
+annual_price: null
+unit: USD/month
+currency: USD
+---
+plan: Business
+description: "For startups and companies looking to engage their customers"
+monthly_price: 195
+annual_price: null
+unit: USD/month
+currency: USD

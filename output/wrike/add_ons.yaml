@@ -1,0 +1,25 @@
+add_on: "Wrike Integrate"
+description: "Integrations with financial solutions, like NetSuite and QuickBooks, for seamless budgeting, billing, and invoicing."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+price: null
+unit: null
+---
+add_on: "Wrike Sync"
+description: "Sync your Wrike tasks with your favorite apps, like Microsoft Outlook, Google Calendar, and more."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+price: null
+unit: null
+---
+add_on: "Wrike Lock"
+description: "Lock down access to Wrike to a list of approved IP addresses only."
+plans: 
+- Enterprise
+- Pinnacle
+price: null
+unit: null

@@ -1,0 +1,27 @@
+plan: Free
+description: "Capture ideas and find them quickly"
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Personal
+description: "Keep home and family on track"
+monthly_price: 10.83
+annual_price: 129.99
+unit: user/month
+currency: USD
+---
+plan: Professional
+description: "Tackle any project, at work or at home"
+monthly_price: 14.16
+annual_price: 169.99
+unit: user/month
+currency: USD
+---
+plan: Teams
+description: "Collaborate and share among your team"
+monthly_price: 20.83
+annual_price: 249.99
+unit: user/month
+currency: USD

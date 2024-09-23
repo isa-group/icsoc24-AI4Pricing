@@ -1,0 +1,48 @@
+plan: "Tableau Creator"
+description: "Discover insights with a powerful suite of products that support your end-to-end analytics workflow."
+monthly_price: 75
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Enterprise Creator"
+description: "Discover insights with a powerful suite of products that support your end-to-end analytics workflow plus additional enterprise-grade administrative and data management capabilities."
+monthly_price: 115
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Tableau Explorer"
+description: "Explore trusted data and answer your own questions faster with full self-service analytics."
+monthly_price: 42
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Enterprise Explorer"
+description: "Explore data and answer your own questions faster and more confidently with enterprise-grade data management and performance-optimized self-service analytics."
+monthly_price: 70
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Tableau Viewer"
+description: "View and interact with dashboards and visualizations in a secure, easy-to-use platform."
+monthly_price: 15
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Enterprise Viewer"
+description: "View and interact with dashboards and visualizations confidently with enterprise-grade data management and a performance-optimized, easy-to-use platform."
+monthly_price: 35
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Resource Block"
+description: "Use Resource Blocks to run concurrent Prep flows on your Tableau Cloud site. Easily add more to scale with your organization’s needs."
+monthly_price: 250
+annual_price: null
+unit: "Resource Block/month"
+currency: USD

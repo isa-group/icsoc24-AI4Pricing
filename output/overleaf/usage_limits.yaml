@@ -1,0 +1,152 @@
+feature: "Number of users"
+description: "The number of users that can upgrade their Overleaf account if you purchase this plan."
+plans: 
+- Free: "1 user"
+- Standard: "1 user"
+- Professional: "1 user"
+- Student: "1 user"
+add_on: null
+---
+feature: "Max. collaborators per project"
+description: "The number of people you can invite to work on each project. They just need to have an Overleaf account. They can be different people in each project."
+plans: 
+- Free: "1 collaborator"
+- Standard: "10 collaborators"
+- Professional: "10000000000 collaborators"
+- Student: "6 collaborators"
+add_on: null
+---
+feature: "Compile timeout"
+description: "This is how much time you get to compile your project on the Overleaf servers. You may need additional time for longer or more complex projects."
+plans: 
+- Free: Basic
+- Standard: "12x Basic"
+- Professional: "12x Basic"
+- Student: "12x Basic"
+add_on: null
+---
+feature: "Compile servers"
+description: "Compiles for users on premium plans always run on a dedicated pool of the fastest available servers."
+plans: 
+- Free: Fast
+- Standard: Fastest
+- Professional: Fastest
+- Student: Fastest
+add_on: null
+---
+feature: "Real-time track changes"
+description: "Switch on track changes to see who made every change, accept or reject others’ changes, and write comments."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Full document history"
+description: "You can see all the edits in your project and who made every change. Add labels to quickly access specific versions."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Advanced reference search"
+description: "It’s easy to find your references - you can search by author, title, year or journal. You can still search by citation key too."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Git integration"
+description: "You can clone your Overleaf project to a local repository, treating your Overleaf project as a remote repository that changes can be pushed to and pulled from."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Powerful LaTeX editor & real-time collaboration"
+description: "Spell check, intelligent autocomplete, syntax highlighting, dozens of color themes, vim and emacs bindings, help with LaTeX warnings and error messages, and more. Everyone always has the latest version, and you can see your collaborators’ cursors and changes in real time."
+plans: 
+- Free: 
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Unlimited projects"
+description: "Your projects are private by default. This means that only you can view them, and only you can allow other people to access them."
+plans: 
+- Free: 
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Thousands of templates"
+description: "Produce beautiful documents starting from our gallery of LaTeX templates for journals, conferences, theses, reports, CVs and much more."
+plans: 
+- Free: 
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Symbol palette"
+description: "A quick and convenient way to insert math symbols into your document."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "GitHub integration"
+description: "Link your Overleaf projects directly to a GitHub repository that acts as a remote repository for your overleaf project. This allows you to share with collaborators outside of Overleaf, and integrate Overleaf into more complex workflows."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Dropbox integration"
+description: "Work online and offline seamlessly with two-way Dropbox sync. Changes you make locally will be sent automatically to the version on Overleaf and vice versa."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Mendeley integration"
+description: "Manage your reference library in Mendeley, and link it directly to .bib files in Overleaf, so you can easily cite anything from your libraries."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Zotero integration"
+description: "Manage your reference library in Zotero, and link it directly to .bib files in Overleaf, so you can easily cite anything from your libraries."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null
+---
+feature: "Priority support"
+description: "Our helpful Support team will prioritise and escalate your support requests where necessary."
+plans: 
+- Free: null
+- Standard: 
+- Professional: 
+- Student: 
+add_on: null

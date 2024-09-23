@@ -1,0 +1,44 @@
+add_on: "Resource Blocks"
+description: "Use Resource Blocks to run concurrent Prep flows on your Tableau Cloud site. Easily add more to scale with your organization’s needs. Learn more here."
+plans: 
+- Enterprise
+- Tableau+
+price: 250
+unit: "Resource Block/month"
+---
+add_on: "Data Connect"
+description: "Enable seamless access to on-premises and private cloud data from Tableau Cloud."
+plans: 
+- Tableau+
+price: null
+unit: null
+---
+add_on: "Data Management"
+description: "Enhanced data preparation and governance for Tableau."
+plans: 
+- Enterprise
+- Tableau+
+price: null
+unit: null
+---
+add_on: "Advanced Management"
+description: "Enhanced manageability, scalability, and security in your Tableau deployment."
+plans: 
+- Enterprise
+- Tableau+
+price: null
+unit: null
+---
+add_on: "Premier Success"
+description: "Get more value out of Tableau with a proven way to fast-track success with resources, expert guidance, and expedited support."
+plans: 
+- Tableau+
+price: null
+unit: null
+---
+add_on: eLearning
+description: "Empower users to build analytics skills from anywhere, anytime with self-paced eLearning as teams master Tableau."
+plans: 
+- Enterprise
+price: null
+unit: null

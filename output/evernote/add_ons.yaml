@@ -1,0 +1,20 @@
+add_on: "Adobe Acrobat Standard"
+description: null
+plans: 
+- Professional
+price: null
+unit: null
+---
+add_on: "AI Edit"
+description: "Use AI to write, summarize, tidy, and translate your notes"
+plans: 
+- Professional
+price: null
+unit: null
+---
+add_on: "AI-Powered Search"
+description: "Use natural language to search your notes"
+plans: 
+- Professional
+price: null
+unit: null

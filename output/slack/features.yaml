@@ -1,0 +1,274 @@
+feature: "Historial de mensajes y archivos"
+description: "Cuanto más usas Slack, más útil te resulta. Al tener la posibilidad de buscar todos los mensajes de tu organización, puedes aprovechar el contexto de las decisiones anteriores o poner a los nuevos miembros del equipo al día más rápido."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Juntas de Slack"
+description: "Deja de escribir en el teclado por un rato e inicia una conversación con audio (o video, también puedes compartir la pantalla, iniciar un hilo de mensajes y agregar reacciones o efectos divertidos) en un canal o mensaje directo. Haz una lluvia de ideas, toma decisiones o simplemente ponte al día, todo con la pulsación de un botón."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Clips de audio y video"
+description: "Usa clips de audio y video para que tu trabajo cobre vida. Graba una idea rápida con un clip de audio o comparte tu pantalla en un clip de video sin salir de Slack. Los compañeros pueden responder cuando quieran."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Trabajar con personas externas"
+description: "Colabora fácilmente con otras organizaciones mediante Slack Connect. Dos organizaciones diferentes pueden trabajar juntas desde sus propios espacios de trabajo de Slack."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Canvas de Slack"
+description: "Consigue que todo el equipo esté alineado con canvas, un espacio de colaboración para organizar la documentación más importante de un canal, mensaje directo o proyecto. Crea listas de comprobación de acciones, preguntas frecuentes de los canales, guías de incorporación y mucho más. ¡Incluso puedes incrustar flujos de trabajo directamente en un canvas!"
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Listas de Slack"
+description: "Las listas traen la administración del trabajo a los lugares donde los equipos ya están colaborando. Puedes visualizar y organizar las tareas desde tus conversaciones, lo que te permite hacer un seguimiento de proyectos interdisciplinarios, solicitudes, aprobaciones y más."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Plantillas personalizadas"
+description: "Optimiza y estandariza los procesos colaborativos en Slack canvas con las plantillas personalizadas. Crea y comparte plantillas listas para usar con una potente automatización ya incorporada. Todas las personas de tu organización pueden usarlas con un simple clic."
+plans: 
+- Enterprise Grid
+---
+feature: "Secciones personalizables"
+description: "Mantén tus proyectos, equipos y prioridades en orden mediante la organización de tus canales y conversaciones en secciones personalizadas y contraíbles en la barra lateral."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Atlas de Slack"
+description: "Encuentra a la persona correcta para avanzar con el trabajo. Busca personas y palabras clave dentro del directorio, revisa los perfiles de los miembros del equipo y consigue el contexto que necesitas para contactarlos."
+plans: 
+- Enterprise Grid
+---
+feature: "Integraciones con otras aplicaciones"
+description: "Elige de entre más de 2600 aplicaciones en el Directorio de aplicaciones de Slack que te ayudarán a sacar adelante cualquier trabajo que hagas, ya sea desde Salesforce, Jira, Google Drive o ChatGPT, entre otros."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Generador de flujos de trabajo"
+description: "Automatiza las tareas y procesos rutinarios directamente desde Slack, sin necesidad de usar ningún código. Los flujos de trabajo pueden ser tan simples o complejos como quieras. Además, incluso se pueden conectar con las demás aplicaciones y herramientas que usas para trabajar."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Pasos personalizados del flujo de trabajo"
+description: "Los pasos personalizados del flujo de trabajo te permiten incorporar sistemas y lógica empresarial exclusivos de tu organización a un flujo de trabajo. Los desarrolladores los crean usando API de Slack."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Implementar aplicaciones en la infraestructura de Slack"
+description: "Los desarrolladores pueden implementar funciones personalizadas en la infraestructura segura y administrada de Slack sin costo adicional alguno."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Total de integraciones con otras aplicaciones o flujos de trabajo publicados"
+description: "Los flujos de trabajo publicados se crean en el Generador de flujos de trabajo y se ponen a tu disposición para que los uses en tu espacio de trabajo.<br/>Las integraciones publicadas se instalan desde el Directorio de aplicaciones y se ponen a tu disposición para que las uses en tu espacio de trabajo."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Flujos de trabajo estándar"
+description: "Los flujos de trabajo estándar se crean usando pasos de Slack y un paso de conector como máximo. Con un paso de conector puedes incorporar otras herramientas a tu flujo de trabajo, como Salesforce, Google Sheets o Jira, entre otras."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Flujos de trabajo prémium"
+description: "Los flujos de trabajo prémium incluyen al menos un paso personalizado, o dos o más pasos de conector. Con los pasos de conector puedes incorporar otras herramientas a tu flujo de trabajo, como Salesforce, Google Sheets o Jira, entre otras. Los planes de pago de Slack incluyen entre 1000 y 5000 ejecuciones por mes, dependiendo del plan. Las ejecuciones de flujos de trabajo prémium fuera de la asignación cuestan 0,05 USD cada una."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Cifrado de datos en reposo y en tránsito"
+description: "De manera predeterminada y como parte de nuestros controles básicos de seguridad, Slack cifra los datos en reposo y en tránsito."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Autenticación de dos factores"
+description: "Agrega una capa adicional de seguridad a tu cuenta para que nunca tengas que preocuparte por la seguridad de tu contraseña."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "OAuth con Google"
+description: "Usar Google para Open Authorization hace posible que los miembros de tu equipo inicien sesión en Slack con la cuenta de Google de manera segura y fácil. Eso significa que habrá una contraseña menos que recordar."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Inicio de sesión único (SSO) basado en SAML"
+description: "Inicia sesión en Slack a través del proveedor de identidades de tu elección para reforzar la seguridad y la comodidad. Elige entre hasta 12 configuraciones de inicio de sesión único, incluidas OneLogin, Ping, Microsoft Azure y Okta."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Administración de claves Enterprise de Slack"
+description: "La EKM de Slack mejora la capacidad de las organizaciones a la hora de compartir conversaciones y archivos confidenciales, al tiempo que cumplen los requisitos de seguridad. Usa tus propias claves de cifrado y consulta detallados registros de actividad en AWS KMS de Amazon."
+plans: 
+- Enterprise Grid
+---
+feature: "Compatibilidad con la administración de movilidad empresarial (EMM)"
+description: "Toma el control y decide cómo se usan tus datos en los dispositivos móviles con AME. Entre los proveedores de AME con los que colaboramos se incluyen VMware AirWatch, Ivanti MobileIron y BlackBerry UEM."
+plans: 
+- Enterprise Grid
+---
+feature: "Registros de auditoría"
+description: "Los registros de auditoría proporcionan un registro del uso y los cambios en Enterprise Grid. Puedes ver los registros de auditoría directamente en Slack, exportarlos como CSV y usar la API de registros de auditoría para crear herramientas de monitoreo personalizadas."
+plans: 
+- Enterprise Grid
+---
+feature: "Grupos de proveedores de identidad"
+description: "Sincroniza los grupos que creaste en tu proveedor de identidad con los espacios de trabajo y los canales de tu organización de Enterprise Grid. Si tu proveedor de identidad no es compatible con la sincronización de grupos, puedes utilizar nuestra API de SCIM para hacerlo manualmente."
+plans: 
+- Enterprise Grid
+---
+feature: "Políticas personalizadas de conservación de mensajes y archivos"
+description: "Elige por cuánto tiempo deseas conservar los archivos y los mensajes, y decide si deseas conservar las versiones anteriores de los mensajes que se editaron o eliminaron."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Exportaciones de datos para todos los mensajes"
+description: "Permite a los propietarios y a los administradores de los espacios de trabajo exportar datos de todos los canales y conversaciones, incluidos los canales privados y los mensajes directos, según sea necesario y en la medida que lo permita la ley."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Compatibilidad con el cumplimiento de la ley HIPAA"
+description: "Se puede configurar Slack para que admita información sanitaria protegida dentro de los archivos subidos y los mensajes."
+plans: 
+- Enterprise Grid
+---
+feature: "Residencia de datos"
+description: "Para los equipos cuyos miembros se reparten por todo el mundo, elige la región donde se almacenarán determinados tipos de datos en reposo."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Prevención de pérdida de datos (DLP) para Slack Connect"
+description: "La Prevención de pérdida de datos en Slack Connect escanea los mensajes y archivos enviados por los miembros de tu organización para reducir el riesgo de compartir contenido confidencial, malicioso o de identificación personal con organizaciones externas."
+plans: 
+- Enterprise Grid
+---
+feature: "Barreras de información"
+description: "Crea barreras de información entre grupos de proveedores de identidad para impedir que determinados miembros envíen mensajes directos o inicien juntas entre sí. Esto ayudará a evitar los conflictos de intereses y a salvaguardar la información confidencial."
+plans: 
+- Enterprise Grid
+---
+feature: "Retenciones legales"
+description: "En una organización de Enterprise Grid, puedes aplicar una retención legal a determinados miembros para conservar sus mensajes y archivos en Slack. Esto significa que se guardarán los mensajes y archivos que envíen todos los miembros en una conversación, independientemente de los ajustes de conservación o de si los miembros editan o eliminan cualquier contenido."
+plans: 
+- Enterprise Grid
+---
+feature: "Espacios de trabajo"
+description: "Al igual que una oficina virtual, un espacio de trabajo es el lugar donde transcurre tu trabajo en Slack. Todos tus canales, mensajes directos y herramientas se reúnen en un espacio de trabajo."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Administrar los permisos de publicación en los canales"
+description: "Ajusta quién tiene permiso para publicar en los canales o usar menciones que notifiquen a todos sus miembros. Esto ayudará a que no haya distracciones en los canales grandes, como los que se usan para hacer anuncios."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Grupos de usuarios personalizados"
+description: "Simplifica el envío de notificaciones y la comunicación con equipos, departamentos o grupos."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Administración de usuarios mediante SCIM"
+description: "Slack admite la administración de miembros con el estándar de sistema de administración de identidades entre dominios (SCIM). Para usar la administración de usuarios, tendrás que usar una aplicación de conector y un proveedor de identidades compatible."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Compatibilidad con integraciones de proveedores de Prevención de pérdida de datos (DLP), e-Discovery y copias de seguridad sin conexión"
+description: "Usa aplicaciones aprobadas de terceros para realizar acciones en los mensajes y archivos desde Slack con nuestra Discovery API."
+plans: 
+- Enterprise Grid
+---
+feature: "Reclamo de nombres de dominios"
+description: "Si tu empresa posee u opera en varios dominios web, Slack te puede ayudar a reclamarlos."
+plans: 
+- Enterprise Grid
+---
+feature: "Términos de servicio personalizados"
+description: "Los propietarios y administradores de la organización pueden perfilar las reglas que rigen la pertenencia a la organización de Slack y su uso."
+plans: 
+- Enterprise Grid
+---
+feature: "Roles granulares"
+description: "Asigna roles del sistema a miembros individuales o grupos de proveedores de identidad, o asigna miembros a varios roles del sistema. Los controles granulares te permiten elegir si los miembros pueden manejar tareas administrativas para todos los espacios de trabajo o solo para algunos en tu organización de Enterprise Grid."
+plans: 
+- Enterprise Grid
+---
+feature: "API de análisis de datos del administrador"
+description: "Recupera datos del análisis de datos correspondiente a determinada fecha, presentados como un archivo JSON comprimido."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Panel de análisis de datos del administrador"
+description: "El panel de análisis de datos de Slack te permite obtener información sobre cómo tu organización usa Slack. Busca y clasifica información fácilmente para comprender más sobre los mensajes, los canales y los miembros en tu espacio de trabajo o en la organización de Enterprise Grid."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+---
+feature: "Análisis de datos de la actividad del mensaje"
+description: "Con la actividad del mensaje, los propietarios, administradores y miembros con permiso pueden ver cuántas personas han interactuado con un determinado mensaje en Slack. Puedes usar la actividad del mensaje para medir el impacto de los anuncios y las campañas de comunicación interna de tu organización."
+plans: 
+- Business+
+- Enterprise Grid
+---
+feature: "Acceso a atención al cliente"
+description: "Te ayudaremos a sacar el máximo partido de Slack con asistencia para tu equipo en todo momento."
+plans: 
+- Free
+- Pro
+- Business+
+- Enterprise Grid

@@ -1,0 +1,27 @@
+plan: "Microsoft 365 Business Basic"
+description: "Apps and services to kick-start your business, including: Identity, access, and user management for up to 300 employees, Custom business email (you@yourbusiness.com), Web and mobile versions of Word, Excel, PowerPoint, and Outlook, Chat, call, and video conference with Microsoft Teams, 1 TB of cloud storage per employee, 10+ additional apps for your business needs (Microsoft Bookings, Planner, Forms, and others), Automatic spam and malware filtering, Anytime phone and web support,  Copilot for Microsoft 365, available as an add-on"
+monthly_price: null
+annual_price: 6.00
+unit: user/month
+currency: USD
+---
+plan: "Microsoft 365 Business Standard"
+description: "Everything in Business Basic, plus: Desktop versions of Word, Excel, PowerPoint, and Outlook, Webinars with attendee registration and reporting, Collaborative workspaces to co-create using Microsoft Loop, Video editing and design tools with Microsoft Clipchamp, Copilot for Microsoft 365, available as an add-on"
+monthly_price: null
+annual_price: 12.50
+unit: user/month
+currency: USD
+---
+plan: "Microsoft 365 Business Premium"
+description: "Everything in Business Standard, plus: Advanced identity and access management, Enhanced cyberthreat protection against viruses and phishing attacks, Enterprise-grade device and endpoint protection, Discover, classify, and protect sensitive information, Copilot for Microsoft 365, available as an add-on"
+monthly_price: null
+annual_price: 22.00
+unit: user/month
+currency: USD
+---
+plan: "Microsoft 365 Apps for business"
+description: null
+monthly_price: null
+annual_price: 8.25
+unit: user/month
+currency: USD

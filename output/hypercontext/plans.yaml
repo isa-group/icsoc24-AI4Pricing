@@ -1,0 +1,27 @@
+plan: Free
+description: "Free forever"
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Pro
+description: "Everything in Free, plus:"
+monthly_price: 5.60
+annual_price: 7
+unit: user/month
+currency: USD
+---
+plan: Business
+description: "Everything in Pro, plus:"
+monthly_price: 8.80
+annual_price: 11
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Everything in Business, plus:"
+monthly_price: 12.80
+annual_price: null
+unit: user/month
+currency: USD

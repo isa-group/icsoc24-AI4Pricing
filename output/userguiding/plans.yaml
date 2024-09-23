@@ -1,0 +1,20 @@
+plan: "Basic Plan"
+description: "Onboard new users and engage customers throughout their lifecycles. Ideal for startups and SMBs like:"
+monthly_price: 129
+annual_price: 89
+unit: user/month
+currency: USD
+---
+plan: "Professional Plan"
+description: "Maximize activation, customer revenue, and retention. Ideal for rapidly growing companies like:"
+monthly_price: 399
+annual_price: 249
+unit: user/month
+currency: USD
+---
+plan: "Corporate Plan"
+description: "Transform your product experience. Ideal for enterprises with multiple products like:"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD

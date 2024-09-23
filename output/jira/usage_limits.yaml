@@ -1,0 +1,467 @@
+feature: "Unlimited goals"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Unlimited Issues"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Unlimited projects"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Unlimited forms"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Customizable workflows"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Backlog view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "List view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Board view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Timeline view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Summary view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "iOS and Android apps"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "User limit per site"
+description: null
+plans: 
+- Free: "10 users"
+- Standard: "50,000 users"
+- Premium: "50,000 users"
+- Enterprise: "50,000 users"
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: "Number of sites"
+description: null
+plans: 
+- Free: "1 site"
+- Standard: "1 site"
+- Premium: "1 site"
+- Enterprise: "150 sites"
+add_on: 
+- Free: "100 €/site"
+- Standard: "100 €/site"
+- Premium: "100 €/site"
+- Enterprise: "100 €/site"
+---
+feature: Storage
+description: null
+plans: 
+- Free: "2 GB file storage"
+- Standard: "250 GB file storage"
+- Premium: "10000000000 GB file storage"
+- Enterprise: "10000000000 GB file storage"
+add_on: 
+- Free: "10 €/GB"
+- Standard: "10 €/GB"
+- Premium: "10 €/GB"
+- Enterprise: "10 €/GB"
+---
+feature: "Email notifications"
+description: null
+plans: 
+- Free: "100 emails per day"
+- Standard: "10000000000 emails"
+- Premium: "10000000000 emails"
+- Enterprise: "10000000000 emails"
+add_on: null
+---
+feature: "User roles and permissions"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Advanced planning (Plans)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: "Dependency management"
+description: null
+plans: 
+- Free: "Single Project"
+- Standard: "Single Project"
+- Premium: Cross-project
+- Enterprise: Cross-project
+add_on: null
+---
+feature: "Capacity management"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: "Expandable Issue Hierarchy"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: "Scenario Modeling"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: Approvals
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: 
+- Free: "10 €/user"
+- Standard: "10 €/user"
+- Premium: "10 €/user"
+- Enterprise: "10 €/user"
+---
+feature: "Atlassian Intelligence (AI)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Goals, projects, and communication"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Employee directory for people and teams"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: Automation
+description: null
+plans: 
+- Free: "100 rule runs per month"
+- Standard: "1,700 rule runs per month"
+- Premium: "1,000 rule runs per user per month"
+- Enterprise: "10000000000 rule runs"
+add_on: 
+- Free: "10 €/rule run"
+- Standard: "10 €/rule run"
+- Premium: "10 €/rule run"
+- Enterprise: "10 €/rule run"
+---
+feature: "Atlassian Analytics"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Atlassian Data Lake"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Data connectors"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Domain verification and account capture"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Session duration management (desktop)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Admin insights"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: Sandbox
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Release tracks"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Project archiving"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Atlassian Guard Standard (SSO, SCIM, Active Directory Sync)"
+description: null
+plans: 
+- Free: "Requires Atlassian Guard Standard subscription"
+- Standard: "Requires Atlassian Guard Standard subscription"
+- Premium: "Requires Atlassian Guard Standard subscription"
+- Enterprise: Included
+add_on: null
+---
+feature: "Password policies"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Encryption in transit and at rest"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Business continuity and disaster recovery"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "IP allowlisting"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Multiple IdP"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Audit logs - user activity"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: BYOK
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Audit logs - site changes"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Issue-level security"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: Support
+description: "Get help when you need it from experts in Atlassian Community or our Cloud support team."
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null
+---
+feature: "Guaranteed uptime SLA"
+description: null
+plans: 
+- Free
+- Standard
+- Premium: 99.9%
+- Enterprise: 99.95%
+add_on: null
+---
+feature: "Project templates"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+add_on: null

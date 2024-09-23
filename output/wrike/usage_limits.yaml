@@ -1,0 +1,679 @@
+feature: "Number of users"
+description: null
+plans: 
+- Free: "10000000000 users"
+- Team: "25 users"
+- Business: "200 users"
+- Enterprise: "10000000000 users"
+- Pinnacle: "10000000000 users"
+add_on: null
+---
+feature: "Multi-language support"
+description: "Wrike supports multiple languages: German, English, French, Italian, Japanese, Portuguese, Spanish, and Russian."
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Wrike for Windows & Mac"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "iOS & Android apps"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Branded workspace"
+description: "Align the look and feel of your Wrike workspace with your own logo."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Storage space"
+description: "Additional storage is also available (fee-based 500GB/1TB increments)"
+plans: 
+- Free: "2 GB/account"
+- Team: "2 GB/user"
+- Business: "5 GB/user"
+- Enterprise: "10 GB/user"
+- Pinnacle: "15 GB/user"
+add_on: 
+- Free: "10 €/GB"
+- Team: "10 €/GB"
+- Business: "10 €/GB"
+- Enterprise: "10 €/GB"
+- Pinnacle: "10 €/GB"
+---
+feature: "Task management"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Subtask management"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Folder hierarchy"
+description: "Configure the unlimited folder structure to one that makes the most sense for your processes and teams."
+plans: 
+- Free
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Account-wide work schedules"
+description: "Designate your team’s work week and see when you or your teammates are scheduled to work."
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Personal work schedules"
+description: "Create additional work schedules and assign them to teammates. Mark vacation or PTO days and designate additional working days for yourself or for team members."
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Custom fields, workflows & statuses"
+description: "Track anything related to your work. Customize workflow stages to fit your process."
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Project portfolio management"
+description: "Use projects, folders, and customizable groups (spaces) to create a hierarchy for projects that works for your teams."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Email integration & notifications"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Custom work views (e.g., Table view, Kanban)"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: Calendars
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Dynamic Gantt chart"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: Dashboards
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Real-time reports"
+description: "Powerful and easy-to-use report builder lets you visualize and share project status. Subscribe to scheduled notifications and get regular report updates and reviews."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Chart view"
+description: "Enable customizable 360 bird-eye view of your team’s work with Chart view. See task statuses by assignee or team in real-time."
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Tableau integration"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Business intelligence API"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Advanced analytics & data visualizations"
+description: null
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Smart search"
+description: "Narrow or extend search results based on the location. Get quick search preview results accross multiple tools and items."
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Voice assistant interaction (mobile)"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Smart Replies and Quick Reactions (mobile)"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Document processing and text recognition (mobile)"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Generative AI"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "AI Recommended Tasks"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "AI Subitem Creation"
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "AI Project Risk Prediction"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Use case project templates"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: Automations
+description: null
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: 
+- Team: "10 €/action"
+- Business: "10 €/action"
+- Enterprise: "10 €/action"
+- Pinnacle: "10 €/action"
+---
+feature: "Team specific administration"
+description: "Configure team specific workflows, statuses, automations, custom fields &amp; request forms"
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Request forms"
+description: "Provide the structure and automation you need for work intake so you get the right information from the start."
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Dynamic request forms"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Company-wide administration"
+description: "Centralized permission and workflow administration."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Custom templates & blueprints"
+description: "Manage project, folder, and task templates and plan activities while keeping it separated from the ongoing work."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Custom item types"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Task & project approval"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Custom approval flows"
+description: "Setup any approval workflow to enable stakeholders to quickly take actions all within Wrike"
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Resources view"
+description: "See a centralized view of all resources associated with a project. Ensure the right resources are available for the project, and balance resource coverage across the entire portfolio."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Workload charts"
+description: "Allocate work based on team capacity. Plan work allocation, re-prioritize projects, and distribute hours flexibly and in real time across assignees."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Effort allocation"
+description: "Determine how many hours it takes to complete each task, or estimate what percentage of a team member's time you need dedicated to a task."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Resource assignment"
+description: "Intuitively drag and drop to add, move, or adjust tasks based on individuals’ capacity and work schedule in real time."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Time tracking"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: Timesheets
+description: "Find all the time you've tracked and update time for your work in a single place on a daily or weekly basis."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Job Roles"
+description: "Assign team members job roles to streamline planning and work allocation based on functional area."
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: Budgeting
+description: "Plan and monitor project, portfolio and client budgets based on team member or job role bill and cost rates."
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Resource Bookings"
+description: "Estimate project effort by team member or job role without creating a detailed work breakdown structure."
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Team utilization & performance dashboard"
+description: "Measure planned vs. actual utilization of individuals or teams over time."
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "User Attributes and Skills"
+description: null
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: Collaborators
+description: "Involve team mates from other departments, clients, and contractors for free"
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Guest approvals"
+description: "Get approvals from different stakeholders in your business ecosystem such as partners and clients"
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "File proofing & approval"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Advanced proofing in HTML5 and Sharepoint"
+description: "Advanced proofing capabilities in native environments."
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Extension for Adobe Creative Cloud"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Digital asset management (DAM) integration"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Cloud Content Connector"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Open RESTful API"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Cloud storage platforms"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Productivity apps & tools"
+description: "Integration with G Suite, Office 365, MS Project, Excel, and Slack."
+plans: 
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Salesforce integration"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "NetSuite & QuickBooks integrations"
+description: "Integrations with financial solutions, like NetSuite and QuickBooks, for seamless budgeting, billing, and invoicing."
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Adobe Creative Cloud extension"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Power BI integration"
+description: null
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Enterprise-grade security"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Authentication via G Suite (Google)"
+description: null
+plans: 
+- Free
+- Team
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Folder & project permissions"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "User audit reports"
+description: "An on-demand report tracks activity of regular users and Wrike account admins."
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "SAML 2.0 single sign-on (SSO)"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Two-step verification"
+description: "Add an extra layer of security, requiring a time-sensitive verification code along with a username and password."
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Controlled admin permission"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Network access (whitelist IP)"
+description: "Lock down access to Wrike to a list of approved IP addresses only."
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Password policy settings"
+description: "Implement password policy to ensure that passwords meet minimum strength requirements and users change them regularly."
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Advanced user access controls"
+description: "Customize and add new access roles, selectively share subfolders and subprojects by keeping them from inheriting permissions, and run access reports to see who has access to folders, projects, and tasks."
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Customizable user types"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Locked Spaces"
+description: null
+plans: 
+- Pinnacle
+add_on: null
+---
+feature: "Wrike Integrate"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Wrike Sync"
+description: null
+plans: 
+- Business
+- Enterprise
+- Pinnacle
+add_on: null
+---
+feature: "Wrike Lock"
+description: null
+plans: 
+- Enterprise
+- Pinnacle
+add_on: null

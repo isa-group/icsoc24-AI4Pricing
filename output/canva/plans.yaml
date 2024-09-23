@@ -1,0 +1,27 @@
+plan: Gratis
+description: "Diseña lo que quieras y haz realidad tus ideas. Disfruta de la creatividad sin preocuparte del precio."
+monthly_price: null
+annual_price: 0
+unit: user/year
+currency: USD
+---
+plan: Pro
+description: "Accede a contenido premium, herramientas de diseño más potentes y funciones con IA."
+monthly_price: null
+annual_price: 120
+unit: user/year
+currency: USD
+---
+plan: Equipos
+description: "Transforma el trabajo en equipo, haz crecer tu marca y simplifica los flujos de trabajo."
+monthly_price: null
+annual_price: 100
+unit: user/year
+currency: USD
+---
+plan: Empresas
+description: "Potencia tu empresa con un espacio de trabajo todo en uno."
+monthly_price: null
+annual_price: null
+unit: user/year
+currency: USD

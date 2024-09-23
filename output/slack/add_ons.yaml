@@ -1,0 +1,22 @@
+add_on: "IA de Slack"
+description: "IA de Slack está disponible para su compra como complemento en todos los planes de pago."
+plans: 
+- Pro
+- Business+
+- Enterprise Grid
+price: null
+unit: null
+---
+add_on: "Atlas de Slack"
+description: "Atlas de Slack es un complemento que te permite ver perfiles y organigramas enriquecidos."
+plans: 
+- Enterprise Grid
+price: null
+unit: null
+---
+add_on: "Administración de claves Enterprise de Slack"
+description: "La EKM de Slack mejora la capacidad de las organizaciones a la hora de compartir conversaciones y archivos confidenciales, al tiempo que cumplen los requisitos de seguridad."
+plans: 
+- Enterprise Grid
+price: null
+unit: null

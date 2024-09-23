@@ -1,0 +1,383 @@
+feature: "Unlimited goals"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Unlimited Issues"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Unlimited projects"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Unlimited forms"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Customizable workflows"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Backlog view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "List view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Board view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Timeline view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Summary view"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "iOS and Android apps"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "User limit per site"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Number of sites"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: Storage
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Email notifications"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "User roles and permissions"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Advanced planning (Plans)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Dependency management"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Capacity management"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Expandable Issue Hierarchy"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Scenario Modeling"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: Approvals
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Atlassian Intelligence (AI)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Goals, projects, and communication"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Employee directory for people and teams"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: Automation
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Atlassian Analytics"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Atlassian Data Lake"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Data connectors"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Domain verification and account capture"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Session duration management (desktop)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Admin insights"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: Sandbox
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Release tracks"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Project archiving"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Atlassian Guard Standard (SSO, SCIM, Active Directory Sync)"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Password policies"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Encryption in transit and at rest"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Business continuity and disaster recovery"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "IP allowlisting"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Multiple IdP"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Audit logs - user activity"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: BYOK
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Audit logs - site changes"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Issue-level security"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: Support
+description: "Get help when you need it from experts in Atlassian Community or our Cloud support team."
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Guaranteed uptime SLA"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise
+---
+feature: "Project templates"
+description: null
+plans: 
+- Free
+- Standard
+- Premium
+- Enterprise

@@ -1,0 +1,90 @@
+add_on: "Jira Service Management"
+description: "Jira Service Management is a powerful IT service management (ITSM) solution that helps you deliver exceptional customer experiences."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Advanced Roadmaps"
+description: "Advanced Roadmaps is a powerful tool that helps you plan and track your work across multiple teams and projects."
+plans: 
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Portfolio for Jira"
+description: "Portfolio for Jira is a powerful tool that helps you manage your portfolio of projects and initiatives."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Ops"
+description: "Jira Ops is a powerful tool that helps you automate your incident management and response processes."
+plans: 
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Work Management"
+description: "Jira Work Management is a powerful tool that helps you manage your work across multiple teams and projects."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Align"
+description: "Jira Align is a powerful tool that helps you align your work with your strategic goals."
+plans: 
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Atlassian Access"
+description: "Atlassian Access is a powerful tool that helps you manage your users and security across your Atlassian cloud products."
+plans: 
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Advanced Security"
+description: "Advanced Security is a powerful tool that helps you protect your users, products, and data on Atlassian Cloud."
+plans: 
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Service Desk"
+description: "Jira Service Desk is a powerful tool that helps you deliver exceptional customer experiences."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Software"
+description: "Jira Software is a powerful tool that helps you plan, track, and manage your software development projects."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null
+---
+add_on: "Jira Core"
+description: "Jira Core is a powerful tool that helps you manage your work across multiple teams and projects."
+plans: 
+- Standard
+- Premium
+- Enterprise
+price: null
+unit: null

@@ -1,0 +1,397 @@
+feature: Users
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: Storage
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Best-in-class sync technology"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Easy and secure sharing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Anytime, anywhere access"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Connect unlimited devices"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "256-bit AES and SSL/TLS encryption"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Real-time document analytics"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Passcode and email verification"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Viewer engagement dashboard"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: Backup
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Account recovery and version history"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Restore deleted files"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Password management"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Multi-factor authentication"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Document scanning"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Remote device wipe"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: Watermarking
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Account transfer tool"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Granular permissions"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Enable HIPAA compliance"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Device approvals"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Data classification"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Ransomware detection and recovery"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Suspicious activity alerts"
+description: null
+plans: 
+- Business Plus
+---
+feature: "End-to-end encryption"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Advanced Key Management"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Screen and video recordings with Dropbox Capture"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Video transcripts and closed captions"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Video editing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Video commenting"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Creative review and approvals with Dropbox Replay"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "File and folder transfer"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Incoming transfer requests"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Transfer analytics"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Custom expiration dates"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Password-protected transfers"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Branded transfers"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Unlimited self-signing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Unlimited signature requests"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Industry-leading security and privacy"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: Templates
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+---
+feature: Branding
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Admin console"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Multi-team admin login"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Centralized billing"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Company managed groups"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Unlimited API access to security platform partners"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Unlimited API access to productivity platform partners"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "1 billion API calls/month for data transport partners"
+description: null
+plans: 
+- Business
+- Business Plus
+---
+feature: "Tiered admin roles"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Sign in as user"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Audit logs with file event tracking"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Single sign-on (SSO) integrations"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Invite enforcement"
+description: null
+plans: 
+- Business Plus
+---
+feature: "Priority email support"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Live chat support"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+---
+feature: "Phone support during business hours"
+description: null
+plans: 
+- Business
+- Business Plus

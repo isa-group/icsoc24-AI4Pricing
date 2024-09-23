@@ -1,0 +1,111 @@
+plan: "Starter Suite"
+description: "The simple CRM suite with marketing, sales, service, and commerce."
+monthly_price: 25
+annual_price: 25
+unit: user/month
+currency: USD
+---
+plan: "Pro Suite"
+description: "The enhanced CRM suite with even more marketing, sales, service, and commerce tools."
+monthly_price: 100
+annual_price: 100
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "The CRM for sales with more flexibility and web API."
+monthly_price: 165
+annual_price: 132
+unit: user/month
+currency: USD
+---
+plan: Unlimited
+description: "The CRM for sales with intelligent automation and developer support built in."
+monthly_price: 330
+annual_price: 264
+unit: user/month
+currency: USD
+---
+plan: "Einstein 1 Sales"
+description: "The best of Salesforce for sales teams in a single offering."
+monthly_price: 500
+annual_price: 400
+unit: user/month
+currency: USD
+---
+plan: "Standard Success Plan"
+description: "Set your company up for success with self-guided, always-on resources."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Premier Success Plan"
+description: "Start strong and grow your business with expert guidance and expedited support."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Signature Success Plan"
+description: "Get the most value from Salesforce with a proactive partnership and personalized experience."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Einstein for Sales"
+description: "Sell faster with generative and predictive AI, including Einstein Copilot."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Sales Programs"
+description: "Boost seller efficiency and productivity with outcome-based enablement — all in the flow of work."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Revenue Intelligence"
+description: "Close faster by equipping sales with purpose-built analytics and actionable insights throughout the sales cycle."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Configure, Price, and Quote (CPQ)"
+description: "Get configure, price, and quote software for direct sales."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Partner Relationship Management"
+description: "Drive partner revenue by building personalized experiences for your partners."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Slack Sales Elevate"
+description: "Take sales productivity to new heights with real-time CRM data and automations in Slack."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: "Professional Services"
+description: "Realize value quickly and become self-sufficient with Salesforce."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null
+---
+plan: Partners
+description: "Innovate and grow faster with pre-built apps and expertise on  AppExchange."
+monthly_price: null
+annual_price: null
+unit: null
+currency: null

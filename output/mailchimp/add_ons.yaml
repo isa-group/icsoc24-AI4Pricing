@@ -1,0 +1,16 @@
+add_on: "Transactional Emails"
+description: "Send automated, personalized emails for receipts, order confirmations, and more."
+plans: 
+- Premium
+- Standard
+price: null
+unit: null
+---
+add_on: "SMS Marketing"
+description: "Reach your customers on their mobile devices with SMS and MMS marketing."
+plans: 
+- Premium
+- Standard
+- Essentials
+price: null
+unit: null

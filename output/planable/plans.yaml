@@ -1,0 +1,27 @@
+plan: Free
+description: null
+monthly_price: 0
+annual_price: null
+unit: workspace/month
+currency: USD
+---
+plan: Basic
+description: null
+monthly_price: 33
+annual_price: 26
+unit: workspace/month
+currency: USD
+---
+plan: Pro
+description: "Most popular"
+monthly_price: 49
+annual_price: 39
+unit: workspace/month
+currency: USD
+---
+plan: Enterprise
+description: null
+monthly_price: null
+annual_price: null
+unit: workspace/month
+currency: USD

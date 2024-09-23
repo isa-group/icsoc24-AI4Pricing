@@ -1,0 +1,27 @@
+plan: "Free forever"
+description: "Best for personal use"
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Unlimited
+description: "Best for small teams"
+monthly_price: 7
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Business
+description: "Best for mid-sized teams"
+monthly_price: 12
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Best for many large teams"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD

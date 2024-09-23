@@ -1,0 +1,20 @@
+plan: Growth
+description: "Ideal for businesses w/ 5-20 employees"
+monthly_price: 199
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Mid Market"
+description: "Ideal for businesses w/ 20-50 employees"
+monthly_price: 249
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Ideal for businesses w/ more than 50 employees"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD

@@ -1,0 +1,23 @@
+add_on: "Overleaf for Teams"
+description: "Overleaf for Teams is a powerful collaboration tool that helps teams of all sizes work together on LaTeX documents."
+plans: 
+- Group Standard
+- Group Professional
+- Organization
+price: null
+unit: null
+---
+add_on: "Overleaf for Enterprise"
+description: "Overleaf for Enterprise is a comprehensive solution that provides organizations with the tools and support they need to manage their LaTeX workflows."
+plans: 
+- Organization
+price: null
+unit: null
+---
+add_on: "Overleaf for Education"
+description: "Overleaf for Education is a discounted subscription plan for students and faculty who are using Overleaf for teaching and learning."
+plans: 
+- Group Standard
+- Group Professional
+price: null
+unit: null

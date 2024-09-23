@@ -1,0 +1,467 @@
+feature: Users
+description: null
+plans: 
+- Plus: "1 user"
+- Essentials: "1 user"
+- Business: "3+ users"
+- Business Plus: "3+ users"
+add_on: 
+- Plus: null
+- Essentials: null
+- Business: "15 €/user"
+- Business Plus: "24 €/user"
+---
+feature: Storage
+description: null
+plans: 
+- Plus: "2000 GB"
+- Essentials: "3000 GB"
+- Business: "10000000000 GB"
+- Business Plus: "10000000000 GB"
+add_on: 
+- Plus: null
+- Essentials: null
+- Business: null
+- Business Plus: null
+---
+feature: "Best-in-class sync technology"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Easy and secure sharing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Anytime, anywhere access"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Connect unlimited devices"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "256-bit AES and SSL/TLS encryption"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Real-time document analytics"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Passcode and email verification"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Viewer engagement dashboard"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: Backup
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Account recovery and version history"
+description: null
+plans: 
+- Plus: "30 days"
+- Essentials: "180 days"
+- Business: "180 days"
+- Business Plus: "1 year"
+add_on: null
+---
+feature: "Restore deleted files"
+description: null
+plans: 
+- Plus: "30 days"
+- Essentials: "180 days"
+- Business: "180 days"
+- Business Plus: "1 year"
+add_on: null
+---
+feature: "Password management"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Multi-factor authentication"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Document scanning"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Remote device wipe"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: Watermarking
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Account transfer tool"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Granular permissions"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Enable HIPAA compliance"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Device approvals"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Data classification"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Ransomware detection and recovery"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Suspicious activity alerts"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "End-to-end encryption"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Advanced Key Management"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Screen and video recordings with Dropbox Capture"
+description: null
+plans: 
+- Plus: "120 minutes"
+- Essentials: "10000000000 minutes"
+- Business: "10000000000 minutes"
+- Business Plus: "10000000000 minutes"
+add_on: 
+- Plus: null
+- Essentials: null
+- Business: null
+- Business Plus: null
+---
+feature: "Video transcripts and closed captions"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Video editing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Video commenting"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Creative review and approvals with Dropbox Replay"
+description: null
+plans: 
+- Plus: "4 uploads"
+- Essentials: "10 uploads"
+- Business: "10 uploads"
+- Business Plus: "10 uploads"
+add_on: null
+---
+feature: "File and folder transfer"
+description: null
+plans: 
+- Plus: "50 GB"
+- Essentials: "100 GB"
+- Business: "100 GB"
+- Business Plus: "250 GB"
+add_on: null
+---
+feature: "Incoming transfer requests"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Transfer analytics"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Custom expiration dates"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Password-protected transfers"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Branded transfers"
+description: null
+plans: 
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Unlimited self-signing"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Unlimited signature requests"
+description: null
+plans: 
+- Essentials: "10000000000 requests"
+- Business: "10000000000 requests"
+- Business Plus: "10000000000 requests"
+add_on: null
+---
+feature: "Industry-leading security and privacy"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: Templates
+description: null
+plans: 
+- Essentials: "5 templates"
+- Business: "15 templates"
+- Business Plus: "10000000000 templates"
+add_on: null
+---
+feature: Branding
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Admin console"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Multi-team admin login"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Centralized billing"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Company managed groups"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Unlimited API access to security platform partners"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Unlimited API access to productivity platform partners"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null
+---
+feature: "1 billion API calls/month for data transport partners"
+description: null
+plans: 
+- Business: "1000000000 API calls"
+- Business Plus: "1000000000 API calls"
+add_on: null
+---
+feature: "Tiered admin roles"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Sign in as user"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Audit logs with file event tracking"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Single sign-on (SSO) integrations"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Invite enforcement"
+description: null
+plans: 
+- Business Plus
+add_on: null
+---
+feature: "Priority email support"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Live chat support"
+description: null
+plans: 
+- Plus
+- Essentials
+- Business
+- Business Plus
+add_on: null
+---
+feature: "Phone support during business hours"
+description: null
+plans: 
+- Business
+- Business Plus
+add_on: null

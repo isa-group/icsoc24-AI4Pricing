@@ -1,0 +1,90 @@
+plan: Free
+description: "For individuals or a small team of 3 or less to start testing APIs."
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: USD
+---
+plan: Basic
+description: "Basic API collaboration for a single team."
+monthly_price: 19
+annual_price: 14
+unit: user/month
+currency: USD
+---
+plan: Professional
+description: "API collaboration for larger teams, cross-org, and external partners."
+monthly_price: 39
+annual_price: 29
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Org-wide API development with advanced support, security, and control."
+monthly_price: null
+annual_price: 49
+unit: user/month
+currency: USD
+---
+plan: Postbot
+description: "Supercharge your API development with our AI-powered assistant."
+monthly_price: 9
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Collection Runner"
+description: "Get unlimited monthly Collection Runs to test your APIs. Schedule runs, log tests results and reuse scripts."
+monthly_price: 49
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Partner Editor"
+description: "Enable external collaborators to not only view but also edit elements in Partner Workspaces."
+monthly_price: 29
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Advanced Security Administration"
+description: "Enable enterprise-grade security for your team, and maintain org-wide security and compliance."
+monthly_price: null
+annual_price: 29
+unit: user/month
+currency: USD
+---
+plan: "API Builder"
+description: "Standardize your API designs and get complete API lifecycle management capabilities."
+monthly_price: null
+annual_price: 49
+unit: user/month
+currency: USD
+---
+plan: Flows
+description: "Transform the way you build API-based applications with a low-code, drag-and-drop interface."
+monthly_price: 12
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Mock Calls"
+description: "Simulate the behavior of real APIs by accepting requests and returning responses. Now available for bulk purchase."
+monthly_price: null
+annual_price: null
+unit: "50,000 requests/month"
+currency: USD
+---
+plan: "Monitor Calls"
+description: "Automatically run test scripts and perform other tests at regular intervals."
+monthly_price: null
+annual_price: null
+unit: "50,000 requests/month"
+currency: USD
+---
+plan: "Custom Domains"
+description: "Provide a more tailored experience for your API consumers."
+monthly_price: null
+annual_price: null
+unit: domain
+currency: USD

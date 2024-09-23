@@ -1,0 +1,58 @@
+feature: "Documents and spreadsheets"
+description: null
+plans: 
+- Quip Starter
+- Quip Plus
+- Quip Advanced
+---
+feature: "Group chat and 1:1 messaging"
+description: null
+plans: 
+- Quip Starter
+- Quip Plus
+- Quip Advanced
+---
+feature: "Access for computers, tablets, and mobile devices"
+description: null
+plans: 
+- Quip Starter
+- Quip Plus
+- Quip Advanced
+---
+feature: "Custom and advanced Live Apps"
+description: null
+plans: 
+- Quip Plus
+- Quip Advanced
+---
+feature: SSO
+description: null
+plans: 
+- Quip Plus
+- Quip Advanced
+---
+feature: "Enterprise API and customization"
+description: null
+plans: 
+- Quip Plus
+- Quip Advanced
+---
+feature: "Salesforce integrated chat"
+description: null
+plans: 
+- Quip Advanced
+---
+feature: "Spreadsheets with live Salesforce data"
+description: null
+plans: 
+- Quip Advanced
+---
+feature: "Two-way sync with live Salesforce data"
+description: null
+plans: 
+- Quip Advanced
+---
+feature: "Embed documents in all Salesforce objects"
+description: null
+plans: 
+- Quip Advanced

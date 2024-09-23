@@ -1,0 +1,27 @@
+plan: Premium
+description: "Scale fast with dedicated onboarding, unlimited contacts, and priority support; built for teams."
+monthly_price: 350
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Standard
+description: "Data-driven automation and optimization tools for businesses that want to grow faster."
+monthly_price: 20
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Essentials
+description: "Great for email-only senders who want around-the-clock support."
+monthly_price: 13
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Free
+description: "All the multichannel tools you need to build your business and grow your audience."
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD

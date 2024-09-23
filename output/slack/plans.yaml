@@ -1,0 +1,27 @@
+plan: Free
+description: "The fastest, easiest way to try Slack"
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Pro
+description: "More power for small teams who want better collaboration"
+monthly_price: 4.38
+annual_price: 7.25
+unit: user/month
+currency: USD
+---
+plan: Business+
+description: "Scale your business, boost productivity, and keep your teams connected"
+monthly_price: 15
+annual_price: 12.50
+unit: user/month
+currency: USD
+---
+plan: "Enterprise Grid"
+description: "Maximize performance and productivity for every level of your company"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD

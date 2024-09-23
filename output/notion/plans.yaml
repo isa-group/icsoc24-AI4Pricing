@@ -1,0 +1,41 @@
+plan: Free
+description: null
+monthly_price: 0
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: Plus
+description: "Everything in Free +"
+monthly_price: 10
+annual_price: 8
+unit: user/month
+currency: USD
+---
+plan: Business
+description: "Everything in Plus +"
+monthly_price: 15
+annual_price: 12
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "Everything in Business +"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Notion AI"
+description: null
+monthly_price: 10
+annual_price: 8
+unit: user/month
+currency: USD
+---
+plan: "Sites Custom Hostnames"
+description: null
+monthly_price: 10
+annual_price: 8
+unit: domain/month
+currency: USD

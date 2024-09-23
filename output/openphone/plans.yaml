@@ -1,0 +1,41 @@
+plan: Starter
+description: "The essentials to get you and your team up and running"
+monthly_price: 19
+annual_price: 15
+unit: user/month
+currency: USD
+---
+plan: Business
+description: "For businesses looking for more call handling and automation features"
+monthly_price: 33
+annual_price: 23
+unit: user/month
+currency: USD
+---
+plan: Enterprise
+description: "For organizations with more complex requirements"
+monthly_price: null
+annual_price: null
+unit: user/month
+currency: USD
+---
+plan: "Additional phone numbers"
+description: null
+monthly_price: 5
+annual_price: null
+unit: number/month
+currency: USD
+---
+plan: "International calling and messaging"
+description: null
+monthly_price: null
+annual_price: null
+unit: null
+currency: USD
+---
+plan: "Automated messages via Zapier"
+description: null
+monthly_price: 0.01
+annual_price: null
+unit: message
+currency: USD

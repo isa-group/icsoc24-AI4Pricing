@@ -1,0 +1,34 @@
+plan: "Free Forever"
+description: "Daily monitoring of your most-important metrics for up to 3 data sources."
+monthly_price: 0
+annual_price: 0
+unit: user/month
+currency: USD
+---
+plan: Starter
+description: "Basic features for high-level performance management and reporting."
+monthly_price: 47
+annual_price: 37.6
+unit: user/month
+currency: USD
+---
+plan: Professional
+description: "Custom analytics capabilities for monitoring KPIs from any data source."
+monthly_price: 135
+annual_price: 108
+unit: user/month
+currency: USD
+---
+plan: Growth
+description: "AI-enhanced analytics & advanced performance management."
+monthly_price: 319
+annual_price: 255.2
+unit: user/month
+currency: USD
+---
+plan: Premium
+description: "All features & add-ons with unlimited usage and enterprise-level security."
+monthly_price: 799
+annual_price: 639.2
+unit: user/month
+currency: USD

@@ -1,0 +1,568 @@
+feature: "Monthly Price"
+description: null
+plans: 
+- Free
+- Essentials: "5 $/channel"
+- Team: "10 $/channel"
+- Agency: "100 $/channel"
+add_on: null
+---
+feature: Channels
+description: "Example: 2 Twitter profiles, 2 Facebook pages, and 2 Start Pages counts as 6 channels"
+plans: 
+- Free: "3 channels"
+- Essentials
+- Team
+- Agency: "10 channels"
+add_on: 
+- Free: "5 $/channel"
+- Essentials: "5 $/channel"
+- Team: "10 $/channel"
+- Agency: "60 $/channel"
+---
+feature: "Scheduling Posts"
+description: "Free plans allow for 10 scheduled posts per channel at one time. *Paid plan channels have a 2,000 scheduled post cap per our Fair Use Policy."
+plans: 
+- Free: "10 posts/channel"
+- Essentials: "10000000000 posts/channel"
+- Team: "10000000000 posts/channel"
+- Agency: "10000000000 posts/channel"
+add_on: null
+---
+feature: Instagram
+description: "Creator or Business accounts"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: TikTok
+description: "Business profiles required"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Facebook
+description: "Pages and Groups"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Twitter
+description: Profiles
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: LinkedIn
+description: "Profiles and pages"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Threads
+description: Profiles
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Bluesky
+description: Profiles
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Mastodon
+description: Profiles
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: YouTube
+description: Shorts
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Pinterest
+description: Boards
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Start Page"
+description: "A landing page for your brand where you can showcase the things that matter"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Buffer AI Assistant"
+description: "Generate new posts for your Buffer schedule, repurpose existing posts, and come up with an endless new ideas"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Ideas
+description: "Capture and store your great ideas whenever they come to you"
+plans: 
+- Free: "100 ideas"
+- Essentials: "2000 ideas"
+- Team: "2000 ideas"
+- Agency: "2000 ideas"
+add_on: null
+---
+feature: Drafts
+description: "Save your content for later on mobile or desktop"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Canva
+description: "Import content directly from Canva"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Google, OneDrive, Dropbox Integrations"
+description: "Import content directly from your favorite cloud storage provider"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Post Previews"
+description: "See how your posts will appear on each channel"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Browser Extension"
+description: "Open the composer on any web page and add posts directly to your queue"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Content Scheduling"
+description: "Create posts and schedule their release for each channel"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Custom Schedules"
+description: "Set time slots throughout each week for your content to be released"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Tailored Posts for Each Channel"
+description: "Seamlessly iterate on content to customize posts for each channel"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Queue or Calendar View"
+description: "View your content as a chronological feed or in a calendar view"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Mentions
+description: "Tag other Facebook, LinkedIn, Instagram, and TikTok Pages (some restrictions apply)"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Threads
+description: "Draft and schedule threads on X/Twitter, Bluesky, and Threads. The Free plan offers one scheduled thread per channel in Buffer at any time. With the Free plan, you can post the thread and schedule another as many times as you want."
+plans: 
+- Free: "1 thread/channel"
+- Essentials: "10000000000 threads/channel"
+- Team: "10000000000 threads/channel"
+- Agency: "10000000000 threads/channel"
+add_on: null
+---
+feature: "Custom Video Thumbnails"
+description: "Choose a custom thumbnail and title for your videos"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Hashtag Manager"
+description: "Create, save, reuse, and optimize groups of hashtags for your social channels"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "First Comment Scheduling"
+description: "Schedule a first comment with your Instagram or LinkedIn posts"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Shuffle Queue"
+description: "Shuffle the order of the posts in your queue"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Link Shorteners"
+description: "Shorten links to buff.ly, bit.ly, or your own domain (through bit.ly)"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Video Scheduling"
+description: "Schedule video to Reels, TikTok, YouTube Shorts and more"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Tags
+description: "Organize, categorize, and keep track of different types of content"
+plans: 
+- Free: "3 tags"
+- Essentials: "250 tags"
+- Team: "250 tags"
+- Agency: "250 tags"
+add_on: null
+---
+feature: "Landing Page"
+description: "Build a simple, flexible landing page with Start Page"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Performance Overview"
+description: "See an overview of key metrics (impressions, engagements and new followers, etc)"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Individual Post Analytics"
+description: "See a history of all of your published posts, iterate, and evolve"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Historical Data Access"
+description: "Backfill data from the past 6 months for all channels except Twitter (28-day limit) and Instagram (30-day limit)"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Data Storage"
+description: "Store, analyze, and export up to two years of data"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Tag Analysis"
+description: "Get insights and reports for tagged content"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Boosted Post Insights"
+description: "Analyze your boosted posts and compare with your organic results to optimize your ad spend"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Hashtag Performance"
+description: "Get insight into how your hashtags could be affecting your reach and engagement rates"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Audience Demographics"
+description: "Age, gender, and location"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Machine Learning Insights"
+description: "Get suggestions for what, when, and how often to post to maximize your results"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Instagram Stories Analytics"
+description: "View completion rates and key metrics over time"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Shopify Performance"
+description: "See your sales, top referrals, and top products alongside your social media data"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Custom Reports"
+description: "White-labeled and annotated for easy analysis"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: "Branded Reports"
+description: "Add a custom logo to each of your reports"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: "Cover Page"
+description: "Get an automatically generated cover page when you download your report as a PDF"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: "Grid view"
+description: "See which posts have unanswered comments and quickly jump in"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Important Comment Detection"
+description: "Machine-learning-powered alerts highlight open questions &amp; comments on sales or unhappiness"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: Hotkeys
+description: "Get through comments quickly without taking your hands off the keyboard"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Easy Account Switching"
+description: "Seamlessly switch between multiple accounts and channels. No more logging in and out"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Included Users"
+description: "The number of users who can access and contribute content to your Buffer account"
+plans: 
+- Free: "1 user"
+- Essentials: "1 user"
+- Team: "10000000000 users"
+- Agency: "10000000000 users"
+add_on: 
+- Free: "10 $/user"
+- Essentials: "10 $/user"
+- Team: "15 $/user"
+- Agency: "15 $/user"
+---
+feature: "Draft Post Management"
+description: "Account owners can set post drafting, approval, and full posting access across users"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: "Custom Access & Permissions"
+description: "Manage which channels each user is invited to and their post-approval status"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: "Approval Workflow Tools"
+description: "Manage who can draft and approve posts across your team"
+plans: 
+- Team
+- Agency
+add_on: null
+---
+feature: Notes
+description: "Add internal comments to your content"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "iOS and Android Apps"
+description: "Publish is available on iOS and Android"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "30+ Third-Party Integrations"
+description: "Use Buffer with your favorite apps like Zapier, IFTTT, Quuu, Mailchimp, Pocket, Feedly, and more"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Two Factor Authentication"
+description: "Two-factor authentication codes can be generated via SMS or Google Authenticator (available on iOS and Android)"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Google Analytics integration"
+description: "Find in-depth insights on your posts and campaigns in Google Analytics"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Custom UTM parameters"
+description: "Track the effectiveness of your posts and campaigns using custom UTM parameters"
+plans: 
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Self-Service Knowledge Base"
+description: "Access to our FAQ where you’ll find how-to guides, most popular questions, and video tutorials"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Social Media Support"
+description: "Fast support on Social Media via Twitter and Facebook"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null
+---
+feature: "Email Support"
+description: "Fast and helpful support via email — a whole team of people cheering for you"
+plans: 
+- Free
+- Essentials
+- Team
+- Agency
+add_on: null

@@ -1,0 +1,690 @@
+feature: "Unlimited audiences"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Advanced Segmentation"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Basic Segmentation"
+description: null
+plans: 
+- Essentials
+- Free
+---
+feature: "Contact Profiles"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: Tags
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: Inbox
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Mailchimp Mobile App"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Audience Dashboard"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: Surveys
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Predicted Demographics"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Customer Lifetime Value"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Purchase Likelihood"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Campaign Engagement"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Purchase Behavior"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "App Engagement"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Website Engagement"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Content Studio"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Pre-built Templates"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Basic Templates"
+description: null
+plans: 
+- Free
+---
+feature: "Custom-Coded Templates"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Remove Mailchimp Branding"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Publish Designs from Mailchimp"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Download Designs"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: Email
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Email Scheduling"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Landing Pages"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Social Posting"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Social Post Scheduling"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Campaign Manager"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Pop-up Forms"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Retargeting Ads (Google)"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Marketing Calendar"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Customer Journey Builder"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Free preview"
+description: null
+plans: 
+- Free
+---
+feature: "Multiple Starting Points"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Branching Points"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Classic Automations Builder"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: Multi-step
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: Single-step
+description: null
+plans: 
+- Essentials
+- Free
+---
+feature: "Basic Reports"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Custom Reports"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Anomaly Detection"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Comparative Reporting"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "A/B Testing"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Multivariate Testing"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Personalized Product Recommendations"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Next Best Action"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Subject Line Helper"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Content Optimizer"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Dynamic Content"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Send Time Optimization"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Delivery by Time Zone"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Integrations with over 300+ apps"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Guides and Tutorials"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Email Support"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "First 30 days"
+description: null
+plans: 
+- Free
+---
+feature: "Live Chat Support"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Personalized Onboarding"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "4 Sessions"
+description: null
+plans: 
+- Premium
+---
+feature: "1 Session"
+description: null
+plans: 
+- Standard
+---
+feature: "Phone Support"
+description: null
+plans: 
+- Premium
+---
+feature: "Premium Migration Services"
+description: null
+plans: 
+- Premium
+---
+feature: "Contact Sales"
+description: null
+plans: 
+- Premium
+---
+feature: "SMS Marketing"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "MMS Marketing"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Demo only"
+description: null
+plans: 
+- Essentials
+- Free
+---
+feature: "Sending SMS/MMS From Customer Journey Builder"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Pre-built SMS Automation (including abandoned cart)"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Pre-built content templates"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Real-time reporting including revenue attribution, audience monitoring, credit usage"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Bulk and Two-way conversations"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Text-to-join and Tap-to-text"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Multi-step Pop-up form"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: Auto-Vetting
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Standard Vetting (Extra Sending Speed)"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+---
+feature: "Included with 5000+ Credits"
+description: null
+plans: 
+- Standard
+- Essentials
+---
+feature: "Build and Publish a Website"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Unlimited Pages"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Unlimited Bandwidth"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "SEO Tools"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "SSL Certificate"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Site Visit Analytics"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Free Mailchimp Domain"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Transactional Emails"
+description: null
+plans: 
+- Premium
+- Standard
+---
+feature: "Prices vary"
+description: null
+plans: 
+- Standard
+- Premium
+---
+feature: Seats
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: Unlimited
+description: null
+plans: 
+- Premium
+---
+feature: "5 seats"
+description: null
+plans: 
+- Standard
+---
+feature: "3 seats"
+description: null
+plans: 
+- Essentials
+---
+feature: "1 seat"
+description: null
+plans: 
+- Free
+---
+feature: "User Roles"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Owner, Admin, Author, Manager, & Viewer"
+description: null
+plans: 
+- Premium
+---
+feature: "Owner, Admin, Author, & Viewer"
+description: null
+plans: 
+- Standard
+---
+feature: "Owner & Admin"
+description: null
+plans: 
+- Essentials
+---
+feature: Owner
+description: null
+plans: 
+- Free
+---
+feature: "Maximum Contact Count"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Contact us for a custom plan"
+description: null
+plans: 
+- Premium
+---
+feature: "Up to 100,000 contacts with our $800/mo tier"
+description: null
+plans: 
+- Standard
+---
+feature: "Up to 50,000 contacts with our $385/mo tier"
+description: null
+plans: 
+- Essentials
+---
+feature: "Up to 500 contacts"
+description: null
+plans: 
+- Free
+---
+feature: "Maximum Monthly Email Sends"
+description: null
+plans: 
+- Premium
+- Standard
+- Essentials
+- Free
+---
+feature: "Monthly email sends: 15X plan’s contact limit."
+description: null
+plans: 
+- Premium
+---
+feature: "Monthly email sends: 12x plan’s contact limit."
+description: null
+plans: 
+- Standard
+---
+feature: "Monthly email sends: 10x plan’s contact limit."
+description: null
+plans: 
+- Essentials
+---
+feature: "Monthly email send limit is 1,000 sends (daily limit of 500)."
+description: null
+plans: 
+- Free

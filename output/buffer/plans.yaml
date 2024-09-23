@@ -1,0 +1,27 @@
+plan: Free
+description: "For individuals and businesses getting started with social media."
+monthly_price: 0
+annual_price: 0
+unit: channel/month
+currency: USD
+---
+plan: Essentials
+description: "For professionals who use publishing, analytics & engagement tools."
+monthly_price: 5
+annual_price: 5
+unit: channel/month
+currency: USD
+---
+plan: Team
+description: "For teams who want unlimited users, collaboration, and reporting."
+monthly_price: 10
+annual_price: 10
+unit: channel/month
+currency: USD
+---
+plan: Agency
+description: "For marketing agencies with 10 or more channels."
+monthly_price: 100
+annual_price: 100
+unit: channel/month
+currency: USD
