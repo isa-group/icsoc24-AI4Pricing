@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by][![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.14062533.svg)](https://doi.org/10.5281/zenodo.14062533)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.14062533.svg)](https://doi.org/10.5281/zenodo.14062533)
 # "From Static to Intelligent: Evolving SaaS Pricing with LLMs - Supplementary Material"
 
 The aim of this repository is to centralize the work performed by the authors to write the paper: "From Static to Intelligent: Evolving SaaS Pricing with LLMs" for SOC4AI Workshop for ICSOC 2024 about an AI-driven solution to model pricings with Pricing2Yaml syntax.
